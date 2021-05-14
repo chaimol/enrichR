@@ -1,2 +1,4 @@
+^renv$
+^renv\.lock$
 ^enrichR\.Rproj$
 ^\.Rproj\.user$
