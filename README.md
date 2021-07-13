@@ -35,9 +35,13 @@ And the development version from
 [GitHub](https://github.com/chaimol/enrichR) with:
 
 ``` r
-# install.packages("devtools")
-#devtools::install_github("chaimol/enrichR")
+install.packages("devtools")
+devtools::install_github("chaimol/enrichR")
 ```
+
+## Usage(中文说明书)
+
+Usage.pdf
 
 ## Example
 
