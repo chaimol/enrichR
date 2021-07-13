@@ -1,0 +1,2421 @@
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C000009
+K02218	casein kinase 1 	MELO3C000093
+K16297	serine carboxypeptidase-like clade II 	MELO3C000105
+K14488	SAUR family protein	MELO3C000106
+K02992	small subunit ribosomal protein S7	MELO3C000107
+K14272	glutamate--glyoxylate aminotransferase 	MELO3C000117
+K09580	protein disulfide-isomerase A1 	MELO3C000199
+K15382	solute carrier family 50 (sugar transporter)	MELO3C000200
+K04079	molecular chaperone HtpG	MELO3C000208
+K04079	molecular chaperone HtpG	MELO3C000209
+K00026	malate dehydrogenase 	MELO3C000258
+K04797	prefoldin alpha subunit	MELO3C000273
+K14272	glutamate--glyoxylate aminotransferase 	MELO3C000280
+K14272	glutamate--glyoxylate aminotransferase 	MELO3C000284
+K00889	1-phosphatidylinositol-4-phosphate 5-kinase 	MELO3C000333
+K01530	phospholipid-translocating ATPase 	MELO3C000372
+K13447	respiratory burst oxidase 	MELO3C000378
+K04079	molecular chaperone HtpG	MELO3C000592
+K03327	multidrug resistance protein, MATE family	MELO3C000668
+K02863	large subunit ribosomal protein L1	MELO3C000754
+K00454	lipoxygenase 	MELO3C000770
+K09872	aquaporin PIP	MELO3C000776
+K01530	phospholipid-translocating ATPase 	MELO3C000868
+K14488	SAUR family protein	MELO3C000885
+K03231	elongation factor 1-alpha	MELO3C001012
+K13356	fatty acyl-CoA reductase 	MELO3C001088
+K00454	lipoxygenase 	MELO3C001181
+K02955	small subunit ribosomal protein S14e	MELO3C001187
+K13947	auxin efflux carrier family	MELO3C001206
+K03254	translation initiation factor 3 subunit A	MELO3C001266
+K15104	solute carrier family 25 (mitochondrial oxoglutarate transporter), member	MELO3C001274
+K10143	E3 ubiquitin-protein ligase RFWD2 	MELO3C001390
+K05863	solute carrier family 25 (mitochondrial adenine nucleotide translocator),	MELO3C001392
+K08900	mitochondrial chaperone BCS1	MELO3C001419
+K14272	glutamate--glyoxylate aminotransferase 	MELO3C001462
+K00770	1,4-beta-D-xylan synthase 	MELO3C001463
+K15813	beta-amyrin synthase 	MELO3C001500
+K13993	HSP20 family protein	MELO3C001614
+K15382	solute carrier family 50 (sugar transporter)	MELO3C001698
+K08245	phytepsin 	MELO3C001745
+K15813	beta-amyrin synthase 	MELO3C001812
+K15813	beta-amyrin synthase 	MELO3C001851
+K01580	glutamate decarboxylase 	MELO3C001938
+K09338	homeobox-leucine zipper protein	MELO3C001939
+K17279	receptor expression-enhancing protein 5/6	MELO3C001971
+K11290	template-activating factor I	MELO3C001973
+K09422	myb proto-oncogene protein, plant	MELO3C001981
+K08910	light-harvesting complex I chlorophyll a/b binding protein 4	MELO3C001992
+K13681	xyloglucan fucosyltransferase 	MELO3C001997
+K01783	ribulose-phosphate 3-epimerase 	MELO3C001998
+K12127	pseudo-response regulator 1	MELO3C001999
+K00901	diacylglycerol kinase (ATP) 	MELO3C002017
+K03695	ATP-dependent Clp protease ATP-binding subunit ClpB	MELO3C002020
+K11131	H/ACA ribonucleoprotein complex subunit 4 	MELO3C002022
+K12741	heterogeneous nuclear ribonucleoprotein A1/A3	MELO3C002030
+K07195	exocyst complex component 7	MELO3C002031
+K04505	presenilin 1 	MELO3C002032
+K01126	glycerophosphoryl diester phosphodiesterase 	MELO3C002033
+K09264	MADS-box transcription factor, plant	MELO3C002050
+K05863	solute carrier family 25 (mitochondrial adenine nucleotide translocator),	MELO3C002052
+K11129	H/ACA ribonucleoprotein complex subunit 2	MELO3C002060
+K01530	phospholipid-translocating ATPase 	MELO3C002064
+K01530	phospholipid-translocating ATPase 	MELO3C002065
+K13179	ATP-dependent RNA helicase DDX18/HAS1 	MELO3C002067
+K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) 	MELO3C002070
+K03111	single-strand DNA-binding protein	MELO3C002071
+K06891	ATP-dependent Clp protease adaptor protein ClpS	MELO3C002078
+K09422	myb proto-oncogene protein, plant	MELO3C002090
+K02993	small subunit ribosomal protein S7e	MELO3C002091
+K10746	exonuclease 1 	MELO3C002121
+K05350	beta-glucosidase 	MELO3C002122
+K05929	phosphoethanolamine N-methyltransferase 	MELO3C002131
+K08819	cyclin-dependent kinase 12/13 	MELO3C002140
+K07151	dolichyl-diphosphooligosaccharide--protein glycosyltransferase 	MELO3C002166
+K12627	U6 snRNA-associated Sm-like protein LSm8	MELO3C002181
+K00001	alcohol dehydrogenase 	MELO3C002189
+K03327	multidrug resistance protein, MATE family	MELO3C002190
+K01535	H+-transporting ATPase 	MELO3C002213
+K08900	mitochondrial chaperone BCS1	MELO3C002220
+K08900	mitochondrial chaperone BCS1	MELO3C002221
+K08900	mitochondrial chaperone BCS1	MELO3C002222
+K03501	16S rRNA (guanine527-N7)-methyltransferase 	MELO3C002238
+K10576	ubiquitin-conjugating enzyme E2 H 	MELO3C002248
+K16284	E3 ubiquitin-protein ligase SIS3 	MELO3C002259
+K15283	solute carrier family 35, member E1	MELO3C002270
+K06195	ApaG protein	MELO3C002271
+K03676	glutaredoxin 3	MELO3C002276
+K18726	FAS-associated factor 2	MELO3C002284
+K06617	raffinose synthase 	MELO3C002287
+K09422	myb proto-oncogene protein, plant	MELO3C002292
+K02900	large subunit ribosomal protein L27Ae	MELO3C002294
+K03517	quinolinate synthase 	MELO3C002307
+K01728	pectate lyase 	MELO3C002319
+K08869	aarF domain-containing kinase	MELO3C002336
+K00940	nucleoside-diphosphate kinase 	MELO3C002338
+K00134	glyceraldehyde 3-phosphate dehydrogenase 	MELO3C002343
+K14841	ribosome biogenesis protein NSA1	MELO3C002347
+K01940	argininosuccinate synthase 	MELO3C002352
+K03232	elongation factor 1-beta	MELO3C002355
+K15382	solute carrier family 50 (sugar transporter)	MELO3C002380
+K15382	solute carrier family 50 (sugar transporter)	MELO3C002381
+K03549	KUP system potassium uptake protein	MELO3C002408
+K08245	phytepsin 	MELO3C002442
+K00605	aminomethyltransferase 	MELO3C002444
+K05907	adenylyl-sulfate reductase (glutathione) 	MELO3C002450
+K08341	GABA(A) receptor-associated protein	MELO3C002452
+K02115	F-type H+-transporting ATPase subunit gamma	MELO3C002456
+K13993	HSP20 family protein	MELO3C002465
+K05350	beta-glucosidase 	MELO3C002474
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C002480
+K09773	hypothetical protein	MELO3C002484
+K08901	photosystem II oxygen-evolving enhancer protein 3	MELO3C002510
+K15086	(3S)-linalool synthase 	MELO3C002516
+K15086	(3S)-linalool synthase 	MELO3C002520
+K03327	multidrug resistance protein, MATE family	MELO3C002526
+K09422	myb proto-oncogene protein, plant	MELO3C002551
+K17871	NADH:ubiquinone reductase (non-electrogenic) 	MELO3C002555
+K01082	3'(2'), 5'-bisphosphate nucleotidase 	MELO3C002563
+K16297	serine carboxypeptidase-like clade II 	MELO3C002572
+K00422	polyphenol oxidase 	MELO3C002579
+K01988	lactosylceramide 4-alpha-galactosyltransferase 	MELO3C002582
+K04712	sphingolipid delta-4 desaturase 	MELO3C002591
+K15637	serine/threonine-protein phosphatase PGAM5 	MELO3C002601
+K11000	callose synthase 	MELO3C002603
+K14409	protein SMG7	MELO3C002612
+K14409	protein SMG7	MELO3C002613
+K00688	starch phosphorylase 	MELO3C002626
+K00430	peroxidase 	MELO3C002632
+K13420	LRR receptor-like serine/threonine-protein kinase FLS2 	MELO3C002667
+K02868	large subunit ribosomal protein L11e	MELO3C002668
+K02912	large subunit ribosomal protein L32e	MELO3C002703
+K02955	small subunit ribosomal protein S14e	MELO3C002715
+K01000	phospho-N-acetylmuramoyl-pentapeptide-transferase 	MELO3C002716
+K02882	large subunit ribosomal protein L18Ae	MELO3C002719
+K09458	3-oxoacyl-	MELO3C002722
+K08912	light-harvesting complex II chlorophyll a/b binding protein 1	MELO3C002727
+K04125	gibberellin 2-oxidase 	MELO3C002735
+K00162	pyruvate dehydrogenase E1 component beta subunit 	MELO3C002746
+K00819	ornithine--oxo-acid transaminase 	MELO3C002752
+K01183	chitinase 	MELO3C002759
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C002768
+K07071		MELO3C002785
+K09338	homeobox-leucine zipper protein	MELO3C002807
+K07375	tubulin beta	MELO3C002830
+K18810	cyclin D1/2/4, plant	MELO3C002910
+K15813	beta-amyrin synthase 	MELO3C002941
+K15813	beta-amyrin synthase 	MELO3C002943
+K03349	anaphase-promoting complex subunit 2	MELO3C002960
+K09287	RAV-like factor	MELO3C003002
+K13946	auxin influx carrier (AUX1 LAX family)	MELO3C003035
+K00889	1-phosphatidylinositol-4-phosphate 5-kinase 	MELO3C003057
+K02952	small subunit ribosomal protein S13	MELO3C003061
+K15728	phosphatidate phosphatase LPIN 	MELO3C003087
+K15728	phosphatidate phosphatase LPIN 	MELO3C003088
+K01728	pectate lyase 	MELO3C003093
+K03283	heat shock 70kDa protein 1/8	MELO3C003119
+K09562	hsp70-interacting protein	MELO3C003143
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C003177
+K00799	glutathione S-transferase 	MELO3C003190
+K00799	glutathione S-transferase 	MELO3C003192
+K00799	glutathione S-transferase 	MELO3C003201
+K00898	pyruvate dehydrogenase kinase 2/3/4 	MELO3C003205
+K03841	fructose-1,6-bisphosphatase I 	MELO3C003214
+K03841	fructose-1,6-bisphosphatase I 	MELO3C003215
+K07375	tubulin beta	MELO3C003218
+K05909	laccase 	MELO3C003228
+K13107	RNA-binding motif protein, X-linked 2	MELO3C003237
+K08915	light-harvesting complex II chlorophyll a/b binding protein 4	MELO3C003238
+K01961	acetyl-CoA carboxylase, biotin carboxylase subunit 	MELO3C003265
+K15437	aminoacyl tRNA synthase complex-interacting multifunctional protein 1	MELO3C003269
+K00430	peroxidase 	MELO3C003275
+K15777	4,5-DOPA dioxygenase extradiol 	MELO3C003277
+K07300	Ca2+:H+ antiporter	MELO3C003294
+K10802	high mobility group protein B1	MELO3C003298
+K13946	auxin influx carrier (AUX1 LAX family)	MELO3C003299
+K10143	E3 ubiquitin-protein ligase RFWD2 	MELO3C003316
+K13199	plasminogen activator inhibitor 1 RNA-binding protein	MELO3C003317
+K08360	cytochrome b-561	MELO3C003324
+K07874	Ras-related protein Rab-1A	MELO3C003327
+K02437	glycine cleavage system H protein	MELO3C003386
+K02639	ferredoxin	MELO3C003395
+K15109	solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member	MELO3C003405
+K15109	solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member	MELO3C003406
+K15109	solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member	MELO3C003407
+K14496	abscisic acid receptor PYR/PYL family	MELO3C003408
+K00913	inositol-1,3,4-trisphosphate 5/6-kinase / inositol-tetrakisphosphate 1-kinase 	MELO3C003426
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C003428
+K11971	E3 ubiquitin-protein ligase RNF14 	MELO3C003429
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C003441
+K01867	tryptophanyl-tRNA synthetase 	MELO3C003472
+K19035	50S ribosomal protein 6	MELO3C003483
+K01610	phosphoenolpyruvate carboxykinase (ATP) 	MELO3C003491
+K18195	rhamnogalacturonan endolyase 	MELO3C003505
+K14765	U3 small nucleolar ribonucleoprotein protein LCP5	MELO3C003509
+K01755	argininosuccinate lyase 	MELO3C003523
+K10395	kinesin family member 4/21/27	MELO3C003524
+K00275	pyridoxamine 5'-phosphate oxidase 	MELO3C003541
+K10664	E3 ubiquitin-protein ligase ATL6/9/15/31/42/55 	MELO3C003544
+K00773	queuine tRNA-ribosyltransferase 	MELO3C003553
+K00434	L-ascorbate peroxidase 	MELO3C003559
+K01875	seryl-tRNA synthetase 	MELO3C003560
+K06630	14-3-3 protein epsilon	MELO3C003562
+K06630	14-3-3 protein epsilon	MELO3C003572
+K14454	aspartate aminotransferase, cytoplasmic 	MELO3C003577
+K08869	aarF domain-containing kinase	MELO3C003596
+K08869	aarF domain-containing kinase	MELO3C003597
+K12446	L-arabinokinase 	MELO3C003601
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C003617
+K00306	sarcosine oxidase / L-pipecolate oxidase 	MELO3C003620
+K13120	protein FAM32A	MELO3C003642
+K01669	deoxyribodipyrimidine photo-lyase 	MELO3C003644
+K19027	zinc finger FYVE domain-containing protein 26	MELO3C003653
+K16241	transcription factor HY5	MELO3C003686
+K10999	cellulose synthase A 	MELO3C003689
+K14515	EIN3-binding F-box protein	MELO3C003696
+K14484	auxin-responsive protein IAA	MELO3C003701
+K15281	solute carrier family 35	MELO3C003703
+K01883	cysteinyl-tRNA synthetase 	MELO3C003719
+K02638	plastocyanin	MELO3C003725
+K08242	24-methylenesterol C-methyltransferase 	MELO3C003726
+K13412	calcium-dependent protein kinase 	MELO3C003730
+K17609	nucleoredoxin 	MELO3C003731
+K11827	AP-2 complex subunit sigma-1	MELO3C003754
+K06966		MELO3C003761
+K13811	3'-phosphoadenosine 5'-phosphosulfate synthase 	MELO3C003762
+K09264	MADS-box transcription factor, plant	MELO3C003778
+K03671	thioredoxin 1	MELO3C003791
+K16297	serine carboxypeptidase-like clade II 	MELO3C003809
+K16297	serine carboxypeptidase-like clade II 	MELO3C003810
+K02909	large subunit ribosomal protein L31	MELO3C003811
+K16302	metal transporter CNNM	MELO3C003833
+K13181	ATP-dependent RNA helicase DDX27 	MELO3C003842
+K02996	small subunit ribosomal protein S9	MELO3C003890
+K01880	glycyl-tRNA synthetase 	MELO3C003905
+K03283	heat shock 70kDa protein 1/8	MELO3C003917
+K14554	U3 small nucleolar RNA-associated protein 21	MELO3C003929
+K01537	Ca2+-transporting ATPase 	MELO3C003950
+K02942	large subunit ribosomal protein LP1	MELO3C003999
+K09833	homogentisate phytyltransferase / homogentisate geranylgeranyltransferase 	MELO3C004006
+K02995	small subunit ribosomal protein S8e	MELO3C004020
+K06085	synovial sarcoma, X breakpoint 2 interacting protein	MELO3C004022
+K10880	DNA-repair protein XRCC3	MELO3C004027
+K08248	mandelonitrile lyase 	MELO3C004053
+K08248	mandelonitrile lyase 	MELO3C004061
+K01805	xylose isomerase 	MELO3C004075
+K03327	multidrug resistance protein, MATE family	MELO3C004077
+K09422	myb proto-oncogene protein, plant	MELO3C004080
+K01611	S-adenosylmethionine decarboxylase 	MELO3C004110
+K16297	serine carboxypeptidase-like clade II 	MELO3C004117
+K10908	DNA-directed RNA polymerase, mitochondrial 	MELO3C004118
+K10908	DNA-directed RNA polymerase, mitochondrial 	MELO3C004119
+K02520	translation initiation factor IF-3	MELO3C004125
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C004155
+K05953	nicotianamine synthase 	MELO3C004184
+K08675	Lon-like ATP-dependent protease 	MELO3C004189
+K12848	U4/U6.U5 tri-snRNP component SNU23	MELO3C004198
+K01115	phospholipase D1/2 	MELO3C004211
+K08907	light-harvesting complex I chlorophyll a/b binding protein 1	MELO3C004214
+K02883	large subunit ribosomal protein L18e	MELO3C004215
+K10364	capping protein (actin filament) muscle Z-line, alpha	MELO3C004216
+K06269	serine/threonine-protein phosphatase PP1 catalytic subunit 	MELO3C004221
+K02350	DNA polymerase zeta 	MELO3C004239
+K15718	linoleate 9S-lipoxygenase 	MELO3C004240
+K15718	linoleate 9S-lipoxygenase 	MELO3C004242
+K15718	linoleate 9S-lipoxygenase 	MELO3C004245
+K07870	Ras homolog gene family, member T1	MELO3C004273
+K00869	mevalonate kinase 	MELO3C004281
+K00869	mevalonate kinase 	MELO3C004282
+K10664	E3 ubiquitin-protein ligase ATL6/9/15/31/42/55 	MELO3C004286
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C004315
+K15813	beta-amyrin synthase 	MELO3C004327
+K15813	beta-amyrin synthase 	MELO3C004329
+K15813	beta-amyrin synthase 	MELO3C004330
+K04565	superoxide dismutase, Cu-Zn family 	MELO3C004342
+K14798	protein LTV1	MELO3C004346
+K14565	nucleolar protein 58	MELO3C004350
+K02974	small subunit ribosomal protein S24e	MELO3C004360
+K08857	NIMA (never in mitosis gene a)-related kinase 	MELO3C004367
+K01807	ribose 5-phosphate isomerase A 	MELO3C004370
+K01456	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase 	MELO3C004372
+K14484	auxin-responsive protein IAA	MELO3C004381
+K14484	auxin-responsive protein IAA	MELO3C004382
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C004383
+K15014	solute carrier family 29 (equilibrative nucleoside transporter), member	MELO3C004384
+K02721	photosystem II PsbW protein	MELO3C004388
+K02160	acetyl-CoA carboxylase biotin carboxyl carrier protein	MELO3C004424
+K00131	glyceraldehyde-3-phosphate dehydrogenase (NADP+) 	MELO3C004430
+K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) 	MELO3C004443
+K02209	DNA replication licensing factor MCM5 	MELO3C004448
+K00939	adenylate kinase 	MELO3C004452
+K05756	actin related protein 2/3 complex, subunit 3	MELO3C004473
+K03715	1,2-diacylglycerol 3-beta-galactosyltransferase 	MELO3C004474
+K07964	heparanase 1 	MELO3C004477
+K03098	apolipoprotein D and lipocalin family protein	MELO3C004486
+K05941	glutathione gamma-glutamylcysteinyltransferase 	MELO3C004494
+K14515	EIN3-binding F-box protein	MELO3C004498
+K14515	EIN3-binding F-box protein	MELO3C004499
+K05941	glutathione gamma-glutamylcysteinyltransferase 	MELO3C004500
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C004513
+K15639	PHYB activation tagged suppressor 1 	MELO3C004527
+K11584	serine/threonine-protein phosphatase 2A regulatory subunit B'	MELO3C004539
+K10781	fatty acyl-ACP thioesterase B 	MELO3C004540
+K18443	golgi-specific brefeldin A-resistance guanine nucleotide exchange factor 1	MELO3C004551
+K03627	putative transcription factor	MELO3C004553
+K09419	heat shock transcription factor, other eukaryote	MELO3C004556
+K04392	Ras-related C3 botulinum toxin substrate 1	MELO3C004568
+K01759	lactoylglutathione lyase 	MELO3C004574
+K06892	feruloyl-CoA ortho-hydroxylase 	MELO3C004584
+K17821	RING finger protein 165	MELO3C004585
+K18592	gamma-glutamyltranspeptidase / glutathione hydrolase / leukotriene-C4 hydrolase [EC:2.3.2.2	MELO3C004606
+K12194	charged multivesicular body protein 4	MELO3C004611
+K02910	large subunit ribosomal protein L31e	MELO3C004613
+K02903	large subunit ribosomal protein L28e	MELO3C004616
+K05933	aminocyclopropanecarboxylate oxidase 	MELO3C004619
+K12259	spermine oxidase 	MELO3C004624
+K03553	recombination protein RecA	MELO3C004628
+K09419	heat shock transcription factor, other eukaryote	MELO3C004630
+K06444	lycopene epsilon-cyclase 	MELO3C004633
+K14397	cleavage and polyadenylation specificity factor subunit 5	MELO3C004637
+K01733	threonine synthase 	MELO3C004640
+K02985	small subunit ribosomal protein S3e	MELO3C004645
+K02605	origin recognition complex subunit 3	MELO3C004695
+K13448	calcium-binding protein CML	MELO3C004702
+K14431	transcription factor TGA	MELO3C004728
+K14611	solute carrier family 23 (nucleobase transporter), member 1/2	MELO3C004794
+K05359	arogenate/prephenate dehydratase 	MELO3C004795
+K12836	splicing factor U2AF 35 kDa subunit	MELO3C004799
+K09646	serine carboxypeptidase 1 	MELO3C004809
+K02874	large subunit ribosomal protein L14	MELO3C004854
+K13071	pheophorbide a oxygenase 	MELO3C004867
+K13113	ubiquitin-like protein 5	MELO3C004892
+K11643	chromodomain-helicase-DNA-binding protein 4 	MELO3C004909
+K00387	sulfite oxidase 	MELO3C004917
+K01674	carbonic anhydrase 	MELO3C004920
+K01674	carbonic anhydrase 	MELO3C004922
+K01674	carbonic anhydrase 	MELO3C004925
+K02939	large subunit ribosomal protein L9	MELO3C004995
+K15115	solute carrier family 25 (mitochondrial folate transporter), member	MELO3C004999
+K08472	mlo protein	MELO3C005037
+K08472	mlo protein	MELO3C005044
+K03526	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase 	MELO3C005061
+K00254	dihydroorotate dehydrogenase 	MELO3C005067
+K14822	rRNA-processing protein CGR1	MELO3C005111
+K00928	aspartate kinase 	MELO3C005112
+K16251	DNA-directed RNA polymerase V subunit 1 	MELO3C005154
+K14492	two-component response regulator ARR-A family	MELO3C005156
+K15542	polyadenylation factor subunit 2	MELO3C005161
+K15542	polyadenylation factor subunit 2	MELO3C005162
+K18551	pyrimidine and pyridine-specific 5'-nucleotidase 	MELO3C005187
+K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) 	MELO3C005188
+K00231	oxygen-dependent protoporphyrinogen oxidase 	MELO3C005189
+K01881	prolyl-tRNA synthetase 	MELO3C005193
+K17710	pentatricopeptide repeat domain-containing protein 1	MELO3C005210
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C005220
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C005221
+K16732	protein regulator of cytokinesis 1	MELO3C005241
+K14379	tartrate-resistant acid phosphatase type 5 	MELO3C005243
+K14489	arabidopsis histidine kinase 2/3/4 (cytokinin receptor) 	MELO3C005250
+K07766	diphosphoinositol-polyphosphate diphosphatase 	MELO3C005275
+K05286	phosphatidylinositol glycan, class B 	MELO3C005285
+K01051	pectinesterase 	MELO3C005292
+K04078	chaperonin GroES	MELO3C005305
+K01807	ribose 5-phosphate isomerase A 	MELO3C005310
+K13448	calcium-binding protein CML	MELO3C005319
+K13947	auxin efflux carrier family	MELO3C005326
+K01623	fructose-bisphosphate aldolase, class I 	MELO3C005333
+K14563	rRNA 2'-O-methyltransferase fibrillarin 	MELO3C005360
+K01873	valyl-tRNA synthetase 	MELO3C005365
+K19044	E3 ubiquitin-protein ligase XBAT32/33 	MELO3C005379
+K13783	MFS transporter, OPA family, solute carrier family 37	MELO3C005383
+K03505	DNA polymerase delta subunit 4	MELO3C005384
+K05282	gibberellin 20-oxidase 	MELO3C005397
+K02936	large subunit ribosomal protein L7Ae	MELO3C005401
+K09422	myb proto-oncogene protein, plant	MELO3C005406
+K05019	chloride channel, nucleotide-sensitive, 1A	MELO3C005412
+K00851	gluconokinase 	MELO3C005426
+K02873	large subunit ribosomal protein L13e	MELO3C005446
+K09286	EREBP-like factor	MELO3C005465
+K01280	tripeptidyl-peptidase II 	MELO3C005469
+K01280	tripeptidyl-peptidase II 	MELO3C005470
+K02920	large subunit ribosomal protein L36e	MELO3C005472
+K14484	auxin-responsive protein IAA	MELO3C005476
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C005485
+K09286	EREBP-like factor	MELO3C005502
+K02877	large subunit ribosomal protein L15e	MELO3C005520
+K09873	aquaporin TIP	MELO3C005526
+K08341	GABA(A) receptor-associated protein	MELO3C005538
+K00016	L-lactate dehydrogenase 	MELO3C005539
+K00759	adenine phosphoribosyltransferase 	MELO3C005556
+K00648	3-oxoacyl-	MELO3C005558
+K02355	elongation factor G	MELO3C005565
+K02953	small subunit ribosomal protein S13e	MELO3C005580
+K01669	deoxyribodipyrimidine photo-lyase 	MELO3C005584
+K14270	aminotransferase	MELO3C005597
+K12451	3,5-epimerase/4-reductase 	MELO3C005621
+K09419	heat shock transcription factor, other eukaryote	MELO3C005639
+K01784	UDP-glucose 4-epimerase 	MELO3C005640
+K12235	serine racemase 	MELO3C005662
+K14775	ribosome biogenesis protein UTP30	MELO3C005664
+K00432	glutathione peroxidase 	MELO3C005666
+K00432	glutathione peroxidase 	MELO3C005667
+K07375	tubulin beta	MELO3C005673
+K01919	glutamate--cysteine ligase 	MELO3C005674
+K10406	kinesin family member C2/C3	MELO3C005678
+K09872	aquaporin PIP	MELO3C005685
+K10576	ubiquitin-conjugating enzyme E2 H 	MELO3C005691
+K15746	beta-carotene 3-hydroxylase 	MELO3C005704
+K02947	small subunit ribosomal protein S10e	MELO3C005706
+K08232	monodehydroascorbate reductase (NADH) 	MELO3C005708
+K13447	respiratory burst oxidase 	MELO3C005718
+K13447	respiratory burst oxidase 	MELO3C005719
+K07020		MELO3C005745
+K01194	alpha,alpha-trehalase 	MELO3C005751
+K11979	E3 ubiquitin-protein ligase UBR7 	MELO3C005754
+K17479	glutaredoxin domain-containing cysteine-rich protein 1	MELO3C005763
+K01784	UDP-glucose 4-epimerase 	MELO3C005769
+K00001	alcohol dehydrogenase 	MELO3C005792
+K13679	granule-bound starch synthase 	MELO3C005795
+K02867	large subunit ribosomal protein L11	MELO3C005800
+K01206	alpha-L-fucosidase 	MELO3C005806
+K00083	cinnamyl-alcohol dehydrogenase 	MELO3C005809
+K19040	E3 ubiquitin-protein ligase ATL10/75/76/77/78 	MELO3C005811
+K04730	interleukin-1 receptor-associated kinase 1 	MELO3C005816
+K09874	aquaporin NIP	MELO3C005817
+K09874	aquaporin NIP	MELO3C005818
+K02996	small subunit ribosomal protein S9	MELO3C005830
+K03609	septum site-determining protein MinD	MELO3C005838
+K06689	ubiquitin-conjugating enzyme E2 D/E 	MELO3C005866
+K15119	solute carrier family 25, member 39/40	MELO3C005868
+K14948	polypyrimidine tract-binding protein 2	MELO3C005871
+K14496	abscisic acid receptor PYR/PYL family	MELO3C005874
+K08900	mitochondrial chaperone BCS1	MELO3C005897
+K02927	large subunit ribosomal protein L40e	MELO3C005912
+K14488	SAUR family protein	MELO3C005913
+K07765	S2P endopeptidase 	MELO3C005917
+K12130	pseudo-response regulator 5	MELO3C005921
+K00940	nucleoside-diphosphate kinase 	MELO3C005939
+K02942	large subunit ribosomal protein LP1	MELO3C005952
+K00025	malate dehydrogenase 	MELO3C005968
+K14782	protein AATF/BFR2	MELO3C005976
+K09338	homeobox-leucine zipper protein	MELO3C005978
+K02991	small subunit ribosomal protein S6e	MELO3C005983
+K15397	3-ketoacyl-CoA synthase 	MELO3C005986
+K14488	SAUR family protein	MELO3C005991
+K09338	homeobox-leucine zipper protein	MELO3C005992
+K06268	serine/threonine-protein phosphatase 2B regulatory subunit	MELO3C006022
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C006029
+K08901	photosystem II oxygen-evolving enhancer protein 3	MELO3C006032
+K17525	chitinase domain-containing protein 1	MELO3C006035
+K08237	hydroquinone glucosyltransferase 	MELO3C006042
+K08237	hydroquinone glucosyltransferase 	MELO3C006043
+K09060	plant G-box-binding factor	MELO3C006054
+K01792	glucose-6-phosphate 1-epimerase 	MELO3C006055
+K15119	solute carrier family 25, member 39/40	MELO3C006060
+K02931	large subunit ribosomal protein L5	MELO3C006088
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C006097
+K10576	ubiquitin-conjugating enzyme E2 H 	MELO3C006100
+K01068	acyl-coenzyme A thioesterase 1/2/4 	MELO3C006113
+K01962	acetyl-CoA carboxylase carboxyl transferase subunit alpha 	MELO3C006124
+K14397	cleavage and polyadenylation specificity factor subunit 5	MELO3C006125
+K15919	hydroxypyruvate reductase 2	MELO3C006155
+K13510	lysophosphatidylcholine acyltransferase / lyso-PAF acetyltransferase 	MELO3C006158
+K14324	histone deacetylase complex subunit SAP18	MELO3C006160
+K15919	hydroxypyruvate reductase 2	MELO3C006164
+K15919	hydroxypyruvate reductase 2	MELO3C006166
+K18442	brefeldin A-inhibited guanine nucleotide-exchange protein	MELO3C006181
+K08679	UDP-glucuronate 4-epimerase 	MELO3C006198
+K00615	transketolase 	MELO3C006200
+K01409	N6-L-threonylcarbamoyladenine synthase 	MELO3C006202
+K13462	guanine nucleotide-exchange factor	MELO3C006224
+K10756	replication factor C subunit 3/5	MELO3C006229
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C006241
+K02868	large subunit ribosomal protein L11e	MELO3C006245
+K10742	DNA replication ATP-dependent helicase Dna2 	MELO3C006248
+K15404	aldehyde decarbonylase 	MELO3C006253
+K15404	aldehyde decarbonylase 	MELO3C006254
+K02881	large subunit ribosomal protein L18	MELO3C006255
+K13800	UMP-CMP kinase 	MELO3C006256
+K04078	chaperonin GroES	MELO3C006268
+K04392	Ras-related C3 botulinum toxin substrate 1	MELO3C006283
+K13456	RPM1-interacting protein 4	MELO3C006302
+K13448	calcium-binding protein CML	MELO3C006312
+K02872	large subunit ribosomal protein L13Ae	MELO3C006314
+K00383	glutathione reductase (NADPH) 	MELO3C006322
+K08511	vesicle-associated membrane protein 72	MELO3C006328
+K01687	dihydroxy-acid dehydratase 	MELO3C006331
+K01728	pectate lyase 	MELO3C006338
+K00878	hydroxyethylthiazole kinase 	MELO3C006346
+K00799	glutathione S-transferase 	MELO3C006353
+K00799	glutathione S-transferase 	MELO3C006355
+K00799	glutathione S-transferase 	MELO3C006356
+K00799	glutathione S-transferase 	MELO3C006357
+K01177	beta-amylase 	MELO3C006362
+K03320	ammonium transporter, Amt family	MELO3C006363
+K14484	auxin-responsive protein IAA	MELO3C006371
+K17769	mitochondrial import receptor subunit TOM22	MELO3C006378
+K01725	cyanate lyase 	MELO3C006398
+K02902	large subunit ribosomal protein L28	MELO3C006400
+K17756	long-chain-alcohol oxidase 	MELO3C006405
+K02937	large subunit ribosomal protein L7e	MELO3C006421
+K04515	calcium/calmodulin-dependent protein kinase (CaM kinase) II 	MELO3C006426
+K06269	serine/threonine-protein phosphatase PP1 catalytic subunit 	MELO3C006429
+K14516	ethylene-responsive transcription factor 1	MELO3C006430
+K19041	E3 ubiquitin-protein ligase RNF38/44 	MELO3C006433
+K06892	feruloyl-CoA ortho-hydroxylase 	MELO3C006438
+K06892	feruloyl-CoA ortho-hydroxylase 	MELO3C006439
+ethylene	receptor (EC:2.7.13.3)	MELO3C006451
+K14484	auxin-responsive protein IAA	MELO3C006476
+K14484	auxin-responsive protein IAA	MELO3C006477
+K12761	carbon catabolite-derepressing protein kinase 	MELO3C006483
+K15397	3-ketoacyl-CoA synthase 	MELO3C006484
+K13448	calcium-binding protein CML	MELO3C006491
+K13811	3'-phosphoadenosine 5'-phosphosulfate synthase 	MELO3C006493
+K11593	eukaryotic translation initiation factor 2C	MELO3C006494
+K08967	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase 	MELO3C006502
+K17471	sulfate transporter 3	MELO3C006505
+K02984	small subunit ribosomal protein S3Ae	MELO3C006507
+K02639	ferredoxin	MELO3C006533
+K03787	5'-nucleotidase 	MELO3C006534
+K09489	heat shock 70kDa protein 4	MELO3C006536
+K02692	photosystem I subunit II	MELO3C006539
+K00975	glucose-1-phosphate adenylyltransferase 	MELO3C006552
+K04708	3-dehydrosphinganine reductase 	MELO3C006553
+K10760	adenylate isopentenyltransferase (cytokinin synthase)	MELO3C006571
+K01915	glutamine synthetase 	MELO3C006577
+K01006	pyruvate, orthophosphate dikinase 	MELO3C006585
+K00472	prolyl 4-hydroxylase 	MELO3C006592
+K19073	divinyl chlorophyllide a 8-vinyl-reductase 	MELO3C006606
+K03676	glutaredoxin 3	MELO3C006620
+K03676	glutaredoxin 3	MELO3C006621
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C006635
+K07565	60S ribosome subunit biogenesis protein NIP7	MELO3C006657
+K02971	small subunit ribosomal protein S21e	MELO3C006662
+K08238	xyloglucan 6-xylosyltransferase 	MELO3C006664
+K01870	isoleucyl-tRNA synthetase 	MELO3C006665
+K10418	dynein light chain LC8-type	MELO3C006677
+K09699	2-oxoisovalerate dehydrogenase E2 component (dihydrolipoyl transacylase) 	MELO3C006679
+K01557	acylpyruvate hydrolase 	MELO3C006680
+K00249	acyl-CoA dehydrogenase 	MELO3C006684
+K03017	DNA-directed RNA polymerase II subunit RPB9	MELO3C006706
+K02183	calmodulin	MELO3C006721
+K02945	small subunit ribosomal protein S1	MELO3C006733
+K00382	dihydrolipoamide dehydrogenase 	MELO3C006734
+K00898	pyruvate dehydrogenase kinase 2/3/4 	MELO3C006749
+K02906	large subunit ribosomal protein L3	MELO3C006752
+K07198	5'-AMP-activated protein kinase, catalytic alpha subunit 	MELO3C006758
+K02881	large subunit ribosomal protein L18	MELO3C006766
+K14488	SAUR family protein	MELO3C006771
+K09571	FK506-binding protein 4/5 	MELO3C006783
+K01087	trehalose 6-phosphate phosphatase 	MELO3C006812
+K14826	FK506-binding nuclear protein 	MELO3C006832
+K15397	3-ketoacyl-CoA synthase 	MELO3C006849
+K14497	protein phosphatase 2C 	MELO3C006852
+K00008	L-iditol 2-dehydrogenase 	MELO3C006865
+K00008	L-iditol 2-dehydrogenase 	MELO3C006866
+K09286	EREBP-like factor	MELO3C006869
+K03327	multidrug resistance protein, MATE family	MELO3C006874
+K16908	chloroplast NAD(P)H dehydrogenase 	MELO3C006876
+K09338	homeobox-leucine zipper protein	MELO3C006887
+K09419	heat shock transcription factor, other eukaryote	MELO3C006891
+K02920	large subunit ribosomal protein L36e	MELO3C006922
+K04079	molecular chaperone HtpG	MELO3C006935
+K15746	beta-carotene 3-hydroxylase 	MELO3C006938
+K14563	rRNA 2'-O-methyltransferase fibrillarin 	MELO3C006945
+K00873	pyruvate kinase 	MELO3C006964
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C006980
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C006981
+K17506	protein phosphatase 1L 	MELO3C006983
+K01937	CTP synthase 	MELO3C006993
+K02542	DNA replication licensing factor MCM6 	MELO3C006995
+K17807	mitochondrial translocator assembly and maintenance protein 41	MELO3C007010
+K11086	small nuclear ribonucleoprotein B and B'	MELO3C007041
+K12448	UDP-arabinose 4-epimerase 	MELO3C007043
+K08790	serine/threonine kinase 38 	MELO3C007047
+K03251	translation initiation factor 3 subunit D	MELO3C007050
+K14760	acyl-activating enzyme 14 	MELO3C007073
+K12486	stromal membrane-associated protein	MELO3C007075
+K08064	nuclear transcription factor Y, alpha	MELO3C007077
+K02698	photosystem I subunit X	MELO3C007091
+K14830	protein MAK11	MELO3C007114
+K11517	(S)-2-hydroxy-acid oxidase 	MELO3C007124
+K15191	La-related protein 7	MELO3C007139
+K09832	cytochrome P450, family 710, subfamily A	MELO3C007140
+K02882	large subunit ribosomal protein L18Ae	MELO3C007141
+K08912	light-harvesting complex II chlorophyll a/b binding protein 1	MELO3C007153
+K08912	light-harvesting complex II chlorophyll a/b binding protein 1	MELO3C007154
+K17616	CTD small phosphatase-like protein 2 	MELO3C007164
+K02912	large subunit ribosomal protein L32e	MELO3C007167
+K02868	large subunit ribosomal protein L11e	MELO3C007204
+K14502	protein brassinosteroid insensitive 2 	MELO3C007207
+K02914	large subunit ribosomal protein L34	MELO3C007218
+K03405	magnesium chelatase subunit I 	MELO3C007233
+K15283	solute carrier family 35, member E1	MELO3C007259
+K09510	DnaJ homolog subfamily B member 4	MELO3C007261
+K02988	small subunit ribosomal protein S5	MELO3C007277
+K10581	ubiquitin-conjugating enzyme E2 O 	MELO3C007283
+K04718	sphingosine kinase 	MELO3C007311
+K12184	ESCRT-I complex subunit VPS28	MELO3C007312
+K09422	myb proto-oncogene protein, plant	MELO3C007330
+K03809	Trp repressor binding protein	MELO3C007340
+K08770	ubiquitin C	MELO3C007372
+K15283	solute carrier family 35, member E1	MELO3C007378
+K15450	tRNA wybutosine-synthesizing protein 3 	MELO3C007389
+K02115	F-type H+-transporting ATPase subunit gamma	MELO3C007390
+K08341	GABA(A) receptor-associated protein	MELO3C007393
+K05359	arogenate/prephenate dehydratase 	MELO3C007396
+K01759	lactoylglutathione lyase 	MELO3C007397
+K05907	adenylyl-sulfate reductase (glutathione) 	MELO3C007398
+K13347	peroxisomal membrane protein 2	MELO3C007405
+K08245	phytepsin 	MELO3C007408
+K01869	leucyl-tRNA synthetase 	MELO3C007414
+K05933	aminocyclopropanecarboxylate oxidase 	MELO3C007425
+K04711	dihydroceramidase 	MELO3C007431
+K00981	phosphatidate cytidylyltransferase 	MELO3C007432
+K01555	fumarylacetoacetase 	MELO3C007433
+K12462	Rho GDP-dissociation inhibitor	MELO3C007434
+K13832	3-dehydroquinate dehydratase / shikimate dehydrogenase 	MELO3C007451
+K13415	protein brassinosteroid insensitive 1 	MELO3C007457
+K14521	N-acetyltransferase 10 	MELO3C007466
+K14521	N-acetyltransferase 10 	MELO3C007467
+K00891	shikimate kinase 	MELO3C007485
+K10666	E3 ubiquitin-protein ligase RNF5 	MELO3C007493
+K02716	photosystem II oxygen-evolving enhancer protein 1	MELO3C007507
+K09422	myb proto-oncogene protein, plant	MELO3C007586
+K14487	auxin responsive GH3 gene family	MELO3C007597
+K08332	vacuolar protein 8	MELO3C007599
+K00430	peroxidase 	MELO3C007618
+K01455	formamidase 	MELO3C007621
+K03097	casein kinase II subunit alpha 	MELO3C007623
+K18811	cyclin D5, plant	MELO3C007628
+K02898	large subunit ribosomal protein L26e	MELO3C007635
+K01537	Ca2+-transporting ATPase 	MELO3C007636
+K14682	amino-acid N-acetyltransferase 	MELO3C007643
+K11338	RuvB-like protein 2 	MELO3C007648
+K09285	AP2-like factor, ANT lineage	MELO3C007657
+K01762	1-aminocyclopropane-1-carboxylate synthase 	MELO3C007662
+K00826	branched-chain amino acid aminotransferase 	MELO3C007664
+K09338	homeobox-leucine zipper protein	MELO3C007666
+K04487	cysteine desulfurase 	MELO3C007668
+K07374	tubulin alpha	MELO3C007673
+K00026	malate dehydrogenase 	MELO3C007674
+K10401	kinesin family member 18/19	MELO3C007683
+K00600	glycine hydroxymethyltransferase 	MELO3C007698
+K00083	cinnamyl-alcohol dehydrogenase 	MELO3C007702
+K11375	elongator complex protein 4	MELO3C007703
+K03327	multidrug resistance protein, MATE family	MELO3C007731
+K14498	serine/threonine-protein kinase SRK2 	MELO3C007739
+K15334	multisite-specific tRNA:(cytosine-C5)-methyltransferase 	MELO3C007741
+K01626	3-deoxy-7-phosphoheptulonate synthase 	MELO3C007744
+K01087	trehalose 6-phosphate phosphatase 	MELO3C007768
+K01858	myo-inositol-1-phosphate synthase 	MELO3C007774
+K16282	E3 ubiquitin-protein ligase RHA2 	MELO3C007785
+K07562	nonsense-mediated mRNA decay protein 3	MELO3C007816
+K17681	ATPase family AAA domain-containing protein 3A/B	MELO3C007833
+K01507	inorganic pyrophosphatase 	MELO3C007838
+K07252	dolichyldiphosphatase 	MELO3C007843
+K08241	jasmonate O-methyltransferase 	MELO3C007852
+K08900	mitochondrial chaperone BCS1	MELO3C007859
+K12637	3-epi-6-deoxocathasterone 23-monooxygenase 	MELO3C007870
+K14191	18S rRNA (adenine1779-N6/adenine1780-N6)-dimethyltransferase 	MELO3C007871
+K03671	thioredoxin 1	MELO3C007873
+K09755	ferulate-5-hydroxylase 	MELO3C007884
+K11275	histone H1/5	MELO3C007889
+K02938	large subunit ribosomal protein L8e	MELO3C007892
+K08874	transformation/transcription domain-associated protein	MELO3C007902
+aconitate	hydratase	MELO3C007942
+K01115	phospholipase D1/2 	MELO3C007944
+K01115	phospholipase D1/2 	MELO3C007945
+K01183	chitinase 	MELO3C007962
+K10355	actin, other eukaryote	MELO3C008032
+K19040	E3 ubiquitin-protein ligase ATL10/75/76/77/78 	MELO3C008033
+K09903	uridylate kinase 	MELO3C008043
+K02701	photosystem I subunit PsaN	MELO3C008060
+K05894	12-oxophytodienoic acid reductase 	MELO3C008075
+K01528	dynamin GTPase 	MELO3C008098
+K14431	transcription factor TGA	MELO3C008128
+K02899	large subunit ribosomal protein L27	MELO3C008191
+K15414	complement component 1 Q subcomponent-binding protein, mitochondrial	MELO3C008244
+K07904	Ras-related protein Rab-11A	MELO3C008250
+K13946	auxin influx carrier (AUX1 LAX family)	MELO3C008287
+K01590	histidine decarboxylase 	MELO3C008357
+K08917	light-harvesting complex II chlorophyll a/b binding protein 6	MELO3C008358
+K16297	serine carboxypeptidase-like clade II 	MELO3C008409
+K16297	serine carboxypeptidase-like clade II 	MELO3C008410
+K15382	solute carrier family 50 (sugar transporter)	MELO3C008417
+K03671	thioredoxin 1	MELO3C008421
+K03875	F-box and leucine-rich repeat protein 1 (S-phase kinase-associated	MELO3C008429
+K13448	calcium-binding protein CML	MELO3C008466
+K14497	protein phosphatase 2C 	MELO3C008478
+K00264	glutamate synthase (NADPH/NADH) 	MELO3C008481
+K00264	glutamate synthase (NADPH/NADH) 	MELO3C008482
+K06268	serine/threonine-protein phosphatase 2B regulatory subunit	MELO3C008492
+K03544	ATP-dependent Clp protease ATP-binding subunit ClpX	MELO3C008495
+K00592		MELO3C008524
+K00820	glucosamine--fructose-6-phosphate aminotransferase (isomerizing) 	MELO3C008557
+K18633	mitotic-spindle organizing protein 1	MELO3C008583
+K03320	ammonium transporter, Amt family	MELO3C008657
+K02693	photosystem I subunit IV	MELO3C008663
+K09839	violaxanthin de-epoxidase 	MELO3C008677
+K03921	acyl-	MELO3C008681
+K14207	solute carrier family 38 (sodium-coupled neutral amino acid	MELO3C008709
+K14401	cleavage and polyadenylation specificity factor subunit 1	MELO3C008725
+K02699	photosystem I subunit XI	MELO3C008731
+K07390	monothiol glutaredoxin	MELO3C008750
+K00059	3-oxoacyl-	MELO3C008796
+K11128	H/ACA ribonucleoprotein complex subunit 1	MELO3C008801
+K00261	glutamate dehydrogenase (NAD(P)+) 	MELO3C008802
+K04565	superoxide dismutase, Cu-Zn family 	MELO3C008809
+K13863	solute carrier family 7 (cationic amino acid transporter),	MELO3C008851
+K13863	solute carrier family 7 (cationic amino acid transporter),	MELO3C008854
+K14863	ribosome biogenesis protein YTM1	MELO3C008857
+K01803	triosephosphate isomerase (TIM) 	MELO3C008879
+K14498	serine/threonine-protein kinase SRK2 	MELO3C008885
+K09651	rhomboid domain-containing protein 1 	MELO3C008914
+K13356	fatty acyl-CoA reductase 	MELO3C008988
+K14792	rRNA biogenesis protein RRP5	MELO3C008993
+K14792	rRNA biogenesis protein RRP5	MELO3C008994
+K14488	SAUR family protein	MELO3C009007
+K02879	large subunit ribosomal protein L17	MELO3C009091
+K02356	elongation factor P	MELO3C009104
+K14496	abscisic acid receptor PYR/PYL family	MELO3C009136
+K00232	acyl-CoA oxidase 	MELO3C009153
+K13412	calcium-dependent protein kinase 	MELO3C009161
+K15731	carboxy-terminal domain RNA polymerase II polypeptide A small	MELO3C009166
+K06215	pyridoxal 5'-phosphate synthase pdxS subunit 	MELO3C009168
+K07300	Ca2+:H+ antiporter	MELO3C009170
+K14684	solute carrier family 25 (mitochondrial phosphate transporter), member	MELO3C009171
+K13946	auxin influx carrier (AUX1 LAX family)	MELO3C009181
+K13508	glycerol-3-phosphate acyltransferase 	MELO3C009182
+K14864	tRNA (cytidine32/guanosine34-2'-O)-methyltransferase 	MELO3C009184
+K06119	sulfoquinovosyltransferase 	MELO3C009186
+K07375	tubulin beta	MELO3C009203
+K13993	HSP20 family protein	MELO3C009210
+K14686	solute carrier family 31 (copper transporter), member 1	MELO3C009211
+K10418	dynein light chain LC8-type	MELO3C009221
+K08269	serine/threonine-protein kinase ULK/ATG1 	MELO3C009226
+K18551	pyrimidine and pyridine-specific 5'-nucleotidase 	MELO3C009252
+K09422	myb proto-oncogene protein, plant	MELO3C009255
+K07195	exocyst complex component 7	MELO3C009288
+K02069	putative ABC transport system permease protein	MELO3C009294
+K00799	glutathione S-transferase 	MELO3C009300
+K02930	large subunit ribosomal protein L4e	MELO3C009306
+K02973	small subunit ribosomal protein S23e	MELO3C009315
+K00430	peroxidase 	MELO3C009329
+K11294	nucleolin	MELO3C009343
+K00856	adenosine kinase 	MELO3C009344
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C009360
+K01904	4-coumarate--CoA ligase 	MELO3C009362
+K09422	myb proto-oncogene protein, plant	MELO3C009364
+K13496	UDP-glucosyl transferase 73C 	MELO3C009386
+K13496	UDP-glucosyl transferase 73C 	MELO3C009387
+K13496	UDP-glucosyl transferase 73C 	MELO3C009389
+K13496	UDP-glucosyl transferase 73C 	MELO3C009391
+K00700	1,4-alpha-glucan branching enzyme 	MELO3C009445
+K03531	cell division protein FtsZ	MELO3C009469
+K01674	carbonic anhydrase 	MELO3C009476
+K10398	kinesin family member 11	MELO3C009486
+K02955	small subunit ribosomal protein S14e	MELO3C009489
+K01285	lysosomal Pro-X carboxypeptidase 	MELO3C009501
+K03386	peroxiredoxin (alkyl hydroperoxide reductase subunit C) 	MELO3C009519
+K06966		MELO3C009521
+K08486	syntaxin 1B/2/3	MELO3C009548
+K08064	nuclear transcription factor Y, alpha	MELO3C009551
+K09835	prolycopene isomerase 	MELO3C009571
+K13412	calcium-dependent protein kinase 	MELO3C009574
+K16275	E3 ubiquitin-protein ligase BAH 	MELO3C009583
+K01301	N-acetylated-alpha-linked acidic dipeptidase 	MELO3C009584
+K12501	homogentisate solanesyltransferase 	MELO3C009589
+K12501	homogentisate solanesyltransferase 	MELO3C009590
+K12900	FUS-interacting serine-arginine-rich protein 1	MELO3C009595
+K10256	omega-6 fatty acid desaturase (delta-12 desaturase) 	MELO3C009630
+K01188	beta-glucosidase 	MELO3C009673
+K01188	beta-glucosidase 	MELO3C009674
+K09422	myb proto-oncogene protein, plant	MELO3C009708
+K01738	cysteine synthase A 	MELO3C009709
+K06207	GTP-binding protein	MELO3C009713
+K02981	small subunit ribosomal protein S2e	MELO3C009716
+K09875	aquaporin SIP	MELO3C009719
+K09754	coumaroylquinate(coumaroylshikimate) 3'-monooxygenase 	MELO3C009741
+K15015	solute carrier family 32 (vesicular inhibitory amino acid	MELO3C009758
+K00284	glutamate synthase (ferredoxin) 	MELO3C009759
+K14568	rRNA small subunit pseudouridine methyltransferase Nep1 	MELO3C009764
+K17479	glutaredoxin domain-containing cysteine-rich protein 1	MELO3C009775
+K14508	regulatory protein NPR1	MELO3C009778
+K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 	MELO3C009782
+K13754	solute carrier family 24 (sodium/potassium/calcium exchanger), member 6	MELO3C009791
+K00962	polyribonucleotide nucleotidyltransferase 	MELO3C009793
+K02897	large subunit ribosomal protein L25	MELO3C009795
+K14794	ribosomal RNA-processing protein 12	MELO3C009800
+K09419	heat shock transcription factor, other eukaryote	MELO3C009805
+K14309	nuclear pore complex protein Nup93	MELO3C009808
+K01640	hydroxymethylglutaryl-CoA lyase 	MELO3C009815
+K13448	calcium-binding protein CML	MELO3C009818
+K01930	folylpolyglutamate synthase 	MELO3C009821
+K16297	serine carboxypeptidase-like clade II 	MELO3C009826
+K03246	translation initiation factor 3 subunit I	MELO3C009841
+K00703	starch synthase 	MELO3C009861
+K09874	aquaporin NIP	MELO3C009870
+K09874	aquaporin NIP	MELO3C009871
+K09422	myb proto-oncogene protein, plant	MELO3C009874
+K01785	aldose 1-epimerase 	MELO3C009884
+K13947	auxin efflux carrier family	MELO3C009892
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C009910
+K01231	alpha-mannosidase II 	MELO3C009913
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C009920
+K00430	peroxidase 	MELO3C009924
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C009944
+K09338	homeobox-leucine zipper protein	MELO3C009948
+K00122	formate dehydrogenase 	MELO3C009956
+K02935	large subunit ribosomal protein L7/L12	MELO3C009965
+K07937	ADP-ribosylation factor 1	MELO3C009966
+K03083	glycogen synthase kinase 3 beta 	MELO3C009971
+K00962	polyribonucleotide nucleotidyltransferase 	MELO3C009975
+K06617	raffinose synthase 	MELO3C009979
+K09503	DnaJ homolog subfamily A member 2	MELO3C009996
+K03671	thioredoxin 1	MELO3C010009
+K16223	protein FLOWERING LOCUS T	MELO3C010015
+K01653	acetolactate synthase I/III small subunit 	MELO3C010018
+K02836	peptide chain release factor 2	MELO3C010022
+K01091	phosphoglycolate phosphatase 	MELO3C010045
+K16296	serine carboxypeptidase-like clade I 	MELO3C010046
+K16296	serine carboxypeptidase-like clade I 	MELO3C010047
+K00921	1-phosphatidylinositol-3-phosphate 5-kinase 	MELO3C010117
+K03255	protein TIF31	MELO3C010196
+K03255	protein TIF31	MELO3C010197
+K02916	large subunit ribosomal protein L35	MELO3C010199
+K16297	serine carboxypeptidase-like clade II 	MELO3C010215
+K10255	omega-6 fatty acid desaturase (delta-12 desaturase) 	MELO3C010229
+K09495	T-complex protein 1 subunit gamma	MELO3C010230
+K09287	RAV-like factor	MELO3C010235
+K03098	apolipoprotein D and lipocalin family protein	MELO3C010244
+K01183	chitinase 	MELO3C010249
+K01183	chitinase 	MELO3C010250
+K00485	dimethylaniline monooxygenase (N-oxide forming) 	MELO3C010272
+K15289	solute carrier family 35, member F5	MELO3C010293
+K07297	adiponectin receptor	MELO3C010301
+K06617	raffinose synthase 	MELO3C010314
+K14515	EIN3-binding F-box protein	MELO3C010335
+K02919	large subunit ribosomal protein L36	MELO3C010337
+K00510	heme oxygenase 	MELO3C010350
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C010353
+K12845	U4/U6 small nuclear ribonucleoprotein SNU13	MELO3C010355
+K10747	DNA ligase 1 	MELO3C010375
+K00227	lathosterol oxidase 	MELO3C010409
+K09286	EREBP-like factor	MELO3C010425
+K00133	aspartate-semialdehyde dehydrogenase 	MELO3C010427
+K00600	glycine hydroxymethyltransferase 	MELO3C010431
+K00889	1-phosphatidylinositol-4-phosphate 5-kinase 	MELO3C010456
+K11267	sister chromatid cohesion protein PDS5	MELO3C010481
+K09580	protein disulfide-isomerase A1 	MELO3C010490
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C010493
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C010494
+K17756	long-chain-alcohol oxidase 	MELO3C010528
+K02519	translation initiation factor IF-2	MELO3C010552
+K06942		MELO3C010569
+K03542	photosystem II 22kDa protein	MELO3C010608
+K13600	chlorophyllide a oxygenase 	MELO3C010614
+K14492	two-component response regulator ARR-A family	MELO3C010624
+K09580	protein disulfide-isomerase A1 	MELO3C010625
+K00434	L-ascorbate peroxidase 	MELO3C010627
+K02995	small subunit ribosomal protein S8e	MELO3C010630
+K00858	NAD+ kinase 	MELO3C010654
+K19042	E3 ubiquitin-protein ligase BOI and related proteins 	MELO3C010672
+K03183	demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase 	MELO3C010679
+K16292	KDEL-tailed cysteine endopeptidase 	MELO3C010702
+K09497	T-complex protein 1 subunit epsilon	MELO3C010705
+K01728	pectate lyase 	MELO3C010706
+K03217	YidC/Oxa1 family membrane protein insertase	MELO3C010707
+K02723	photosystem II PsbY protein	MELO3C010708
+K14491	two-component response regulator ARR-B family	MELO3C010714
+K00059	3-oxoacyl-	MELO3C010727
+K06943	nucleolar GTP-binding protein	MELO3C010735
+K03921	acyl-	MELO3C010739
+K17616	CTD small phosphatase-like protein 2 	MELO3C010744
+K09419	heat shock transcription factor, other eukaryote	MELO3C010748
+K03676	glutaredoxin 3	MELO3C010749
+K14709	solute carrier family 39 (zinc transporter), member 1/2/3	MELO3C010753
+K00281	glycine dehydrogenase 	MELO3C010754
+K01772	ferrochelatase 	MELO3C010762
+K12125	protein EARLY FLOWERING 3	MELO3C010769
+K00511	squalene monooxygenase 	MELO3C010781
+K09285	AP2-like factor, ANT lineage	MELO3C010784
+K03937	NADH dehydrogenase (ubiquinone) Fe-S protein 4	MELO3C010798
+K09377	cysteine and glycine-rich protein	MELO3C010801
+K00759	adenine phosphoribosyltransferase 	MELO3C010812
+K03097	casein kinase II subunit alpha 	MELO3C010816
+K06627	cyclin A	MELO3C010828
+K14505	cyclin D3, plant	MELO3C010836
+K09286	EREBP-like factor	MELO3C010840
+K14432	ABA responsive element binding factor	MELO3C010850
+K09843	(+)-abscisic acid 8'-hydroxylase 	MELO3C010858
+K08911	light-harvesting complex I chlorophyll a/b binding protein 5	MELO3C010859
+K14499	BRI1 kinase inhibitor 1	MELO3C010878
+K03100	signal peptidase I 	MELO3C010903
+K01723	hydroperoxide dehydratase 	MELO3C010910
+K10666	E3 ubiquitin-protein ligase RNF5 	MELO3C010916
+K14503	brassinosteroid resistant 1/2	MELO3C010925
+K15397	3-ketoacyl-CoA synthase 	MELO3C010941
+K08145	MFS transporter, SP family, solute carrier family 2	MELO3C010946
+K07437	cytochrome P450, family 26, subfamily A	MELO3C010961
+K04371	mitogen-activated protein kinase 1/3 	MELO3C010966
+K07056	16S rRNA (cytidine1402-2'-O)-methyltransferase 	MELO3C010971
+K03139	transcription initiation factor TFIIF subunit beta 	MELO3C010981
+K01373	cathepsin F 	MELO3C010982
+K06966		MELO3C011000
+K00586	diphthine synthase 	MELO3C011001
+K03256	tRNA (adenine-N(1)-)-methyltransferase non-catalytic subunit	MELO3C011005
+K07375	tubulin beta	MELO3C011016
+K01626	3-deoxy-7-phosphoheptulonate synthase 	MELO3C011037
+K02991	small subunit ribosomal protein S6e	MELO3C011039
+K02991	small subunit ribosomal protein S6e	MELO3C011040
+14-3-3-like	protein	MELO3C011041
+K10664	E3 ubiquitin-protein ligase ATL6/9/15/31/42/55 	MELO3C011053
+K03327	multidrug resistance protein, MATE family	MELO3C011055
+K04730	interleukin-1 receptor-associated kinase 1 	MELO3C011065
+K03926	periplasmic divalent cation tolerance protein	MELO3C011069
+K01755	argininosuccinate lyase 	MELO3C011085
+K11855	ubiquitin carboxyl-terminal hydrolase 36/42 	MELO3C011097
+K15104	solute carrier family 25 (mitochondrial oxoglutarate transporter), member	MELO3C011101
+K15104	solute carrier family 25 (mitochondrial oxoglutarate transporter), member	MELO3C011102
+K02492	glutamyl-tRNA reductase 	MELO3C011113
+K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) 	MELO3C011129
+K09873	aquaporin TIP	MELO3C011146
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C011147
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C011148
+K11816	indole-3-pyruvate monooxygenase 	MELO3C011158
+K17609	nucleoredoxin 	MELO3C011177
+K15281	solute carrier family 35	MELO3C011179
+K07195	exocyst complex component 7	MELO3C011181
+K00930	acetylglutamate kinase 	MELO3C011208
+K06627	cyclin A	MELO3C011215
+K04124	gibberellin 3-beta-dioxygenase 	MELO3C011218
+K01662	1-deoxy-D-xylulose-5-phosphate synthase 	MELO3C011230
+K06130	lysophospholipase II 	MELO3C011237
+transcription	factor HY5-like	MELO3C011250
+K14515	EIN3-binding F-box protein	MELO3C011260
+K02109	F-type H+-transporting ATPase subunit b	MELO3C011269
+K00759	adenine phosphoribosyltransferase 	MELO3C011270
+K02949	small subunit ribosomal protein S11e	MELO3C011276
+K17278	membrane-associated progesterone receptor component	MELO3C011309
+K05387	glutamate receptor, ionotropic, plant	MELO3C011322
+K00799	glutathione S-transferase 	MELO3C011334
+K05309	microsomal prostaglandin-E synthase 2 	MELO3C011352
+K03002	DNA-directed RNA polymerase I subunit RPA2 	MELO3C011383
+K02469	DNA gyrase subunit A 	MELO3C011386
+K14766	nucleolar protein 14	MELO3C011408
+K09564	peptidyl-prolyl isomerase E (cyclophilin E) 	MELO3C011414
+K06630	14-3-3 protein epsilon	MELO3C011421
+K00794	6,7-dimethyl-8-ribityllumazine synthase 	MELO3C011439
+K07119		MELO3C011440
+K02932	large subunit ribosomal protein L5e	MELO3C011448
+K02880	large subunit ribosomal protein L17e	MELO3C011453
+K16732	protein regulator of cytokinesis 1	MELO3C011457
+K14497	protein phosphatase 2C 	MELO3C011469
+K01648	ATP citrate (pro-S)-lyase 	MELO3C011482
+K18787	thermospermine synthase 	MELO3C011484
+K02221	YggT family protein	MELO3C011488
+K07748	sterol-4alpha-carboxylate 3-dehydrogenase (decarboxylating) 	MELO3C011497
+K14652	3,4-dihydroxy 2-butanone 4-phosphate synthase / GTP cyclohydrolase II	MELO3C011536
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C011559
+K15925	alpha-D-xyloside xylohydrolase 	MELO3C011570
+K09422	myb proto-oncogene protein, plant	MELO3C011604
+K15287	solute carrier family 35, member F1/2	MELO3C011607
+K03841	fructose-1,6-bisphosphatase I 	MELO3C011682
+K00939	adenylate kinase 	MELO3C011719
+K02864	large subunit ribosomal protein L10	MELO3C011720
+K11600	exosome complex component RRP41	MELO3C011748
+K12859	U5 snRNP protein, DIM1 family	MELO3C011749
+K01354	oligopeptidase B 	MELO3C011764
+K07407	alpha-galactosidase 	MELO3C011770
+K07407	alpha-galactosidase 	MELO3C011771
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C011787
+K14317	nuclear pore complex protein Nup214	MELO3C011789
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C011804
+K03070	preprotein translocase subunit SecA	MELO3C011812
+K00765	ATP phosphoribosyltransferase 	MELO3C011826
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C011829
+K09201	transcription factor YY	MELO3C011837
+K02932	large subunit ribosomal protein L5e	MELO3C011847
+K01738	cysteine synthase A 	MELO3C011852
+K08908	light-harvesting complex I chlorophyll a/b binding protein 2	MELO3C011865
+K00588	caffeoyl-CoA O-methyltransferase 	MELO3C011872
+K02880	large subunit ribosomal protein L17e	MELO3C011873
+K18342	OTU domain-containing protein 6 	MELO3C011883
+K01427	urease 	MELO3C011884
+K00454	lipoxygenase 	MELO3C011885
+K10251	17beta-estradiol 17-dehydrogenase / very-long-chain 3-oxoacyl-CoA reductase 	MELO3C011901
+K13993	HSP20 family protein	MELO3C011908
+K02723	photosystem II PsbY protein	MELO3C011911
+K18584	actin-related protein 3	MELO3C011913
+K16285	RING/U-box domain-containing protein	MELO3C011942
+K14640	solute carrier family 20 (sodium-dependent phosphate transporter)	MELO3C011950
+K02900	large subunit ribosomal protein L27Ae	MELO3C011956
+K03327	multidrug resistance protein, MATE family	MELO3C011957
+K08244	alpha-glucan, water dikinase 	MELO3C011972
+K02575	MFS transporter, NNP family, nitrate/nitrite transporter	MELO3C011976
+K02977	small subunit ribosomal protein S27Ae	MELO3C011983
+K18819	inositol 3-alpha-galactosyltransferase 	MELO3C011991
+K18980	2-methylene-furan-3-one reductase 	MELO3C011998
+K15014	solute carrier family 29 (equilibrative nucleoside transporter), member	MELO3C012002
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C012004
+K00797	spermidine synthase 	MELO3C012007
+K14492	two-component response regulator ARR-A family	MELO3C012031
+K00161	pyruvate dehydrogenase E1 component alpha subunit 	MELO3C012035
+K09510	DnaJ homolog subfamily B member 4	MELO3C012052
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C012065
+K10573	ubiquitin-conjugating enzyme E2 A 	MELO3C012074
+K09338	homeobox-leucine zipper protein	MELO3C012079
+K02997	small subunit ribosomal protein S9e	MELO3C012084
+K07052		MELO3C012090
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C012106
+K11593	eukaryotic translation initiation factor 2C	MELO3C012127
+K00688	starch phosphorylase 	MELO3C012142
+K00688	starch phosphorylase 	MELO3C012143
+K06630	14-3-3 protein epsilon	MELO3C012146
+K15283	solute carrier family 35, member E1	MELO3C012148
+K01057	6-phosphogluconolactonase 	MELO3C012159
+K10908	DNA-directed RNA polymerase, mitochondrial 	MELO3C012173
+K14759	isochorismate synthase / 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase / 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase	MELO3C012179
+K04077	chaperonin GroEL	MELO3C012180
+K13448	calcium-binding protein CML	MELO3C012195
+K01530	phospholipid-translocating ATPase 	MELO3C012196
+K09287	RAV-like factor	MELO3C012217
+K06891	ATP-dependent Clp protease adaptor protein ClpS	MELO3C012223
+K00627	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) 	MELO3C012235
+K15925	alpha-D-xyloside xylohydrolase 	MELO3C012241
+K15397	3-ketoacyl-CoA synthase 	MELO3C012246
+K01602	ribulose-bisphosphate carboxylase small chain 	MELO3C012252
+K02876	large subunit ribosomal protein L15	MELO3C012254
+K10760	adenylate isopentenyltransferase (cytokinin synthase)	MELO3C012255
+K14484	auxin-responsive protein IAA	MELO3C012276
+K14442	ATP-dependent RNA helicase DHX36 	MELO3C012285
+K08730	phosphatidylserine synthase 2 	MELO3C012286
+K03327	multidrug resistance protein, MATE family	MELO3C012290
+K01807	ribose 5-phosphate isomerase A 	MELO3C012301
+K09503	DnaJ homolog subfamily A member 2	MELO3C012331
+K13628	iron-sulfur cluster assembly protein	MELO3C012350
+K01267	aspartyl aminopeptidase 	MELO3C012356
+K00051	malate dehydrogenase (NADP+) 	MELO3C012389
+K01728	pectate lyase 	MELO3C012394
+K15015	solute carrier family 32 (vesicular inhibitory amino acid	MELO3C012409
+K17808	mitochondrial protein import protein ZIM17	MELO3C012415
+K12666	oligosaccharyltransferase complex subunit alpha (ribophorin I)	MELO3C012425
+K08869	aarF domain-containing kinase	MELO3C012436
+K06688	ubiquitin-conjugating enzyme E2 C 	MELO3C012437
+K16297	serine carboxypeptidase-like clade II 	MELO3C012440
+K14431	transcription factor TGA	MELO3C012485
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C012521
+K17261	adenylyl cyclase-associated protein	MELO3C012526
+K00888	phosphatidylinositol 4-kinase 	MELO3C012544
+K00888	phosphatidylinositol 4-kinase 	MELO3C012545
+K17279	receptor expression-enhancing protein 5/6	MELO3C012561
+K01937	CTP synthase 	MELO3C012572
+K04121	ent-kaurene synthase 	MELO3C012592
+K17822	DCN1-like protein 1/2	MELO3C012597
+K19042	E3 ubiquitin-protein ligase BOI and related proteins 	MELO3C012628
+K08867	WNK lysine deficient protein kinase 	MELO3C012645
+K02989	small subunit ribosomal protein S5e	MELO3C012670
+K08790	serine/threonine kinase 38 	MELO3C012751
+K01728	pectate lyase 	MELO3C012791
+K11816	indole-3-pyruvate monooxygenase 	MELO3C012817
+K01592	tyrosine decarboxylase 	MELO3C012835
+K02894	large subunit ribosomal protein L23e	MELO3C012846
+K17756	long-chain-alcohol oxidase 	MELO3C012854
+K11130	H/ACA ribonucleoprotein complex subunit 3	MELO3C012871
+K06041	arabinose-5-phosphate isomerase 	MELO3C012874
+K09422	myb proto-oncogene protein, plant	MELO3C012890
+K14516	ethylene-responsive transcription factor 1	MELO3C012896
+K00789	S-adenosylmethionine synthetase 	MELO3C012911
+K08912	light-harvesting complex II chlorophyll a/b binding protein 1	MELO3C012912
+K18819	inositol 3-alpha-galactosyltransferase 	MELO3C012925
+K01897	long-chain acyl-CoA synthetase 	MELO3C012928
+K03301	ATP:ADP antiporter, AAA family	MELO3C012943
+K14484	auxin-responsive protein IAA	MELO3C012951
+K02695	photosystem I subunit VI	MELO3C012971
+K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) 	MELO3C013000
+K14484	auxin-responsive protein IAA	MELO3C013003
+K00850	6-phosphofructokinase 1 	MELO3C013009
+K04485	DNA repair protein RadA/Sms	MELO3C013011
+K04485	DNA repair protein RadA/Sms	MELO3C013012
+K00469	inositol oxygenase 	MELO3C013014
+K02903	large subunit ribosomal protein L28e	MELO3C013029
+K05387	glutamate receptor, ionotropic, plant	MELO3C013042
+K15403	fatty acid omega-hydroxy dehydrogenase 	MELO3C013057
+K14497	protein phosphatase 2C 	MELO3C013082
+K08776	puromycin-sensitive aminopeptidase 	MELO3C013084
+K08776	puromycin-sensitive aminopeptidase 	MELO3C013085
+K08776	puromycin-sensitive aminopeptidase 	MELO3C013086
+K18121	glyoxylate/succinic semialdehyde reductase 	MELO3C013091
+K08503	syntaxin of plants SYP5	MELO3C013123
+K14190	GDP-L-galactose phosphorylase 	MELO3C013136
+K17081	prohibitin 2	MELO3C013139
+K00700	1,4-alpha-glucan branching enzyme 	MELO3C013141
+K00700	1,4-alpha-glucan branching enzyme 	MELO3C013146
+K00912	tetraacyldisaccharide 4'-kinase 	MELO3C013155
+K03113	translation initiation factor 1	MELO3C013163
+K00215	4-hydroxy-tetrahydrodipicolinate reductase 	MELO3C013171
+K08869	aarF domain-containing kinase	MELO3C013172
+K11097	small nuclear ribonucleoprotein E	MELO3C013179
+K14569	ribosome biogenesis protein BMS1	MELO3C013185
+K01623	fructose-bisphosphate aldolase, class I 	MELO3C013203
+K10523	speckle-type POZ protein	MELO3C013212
+K01955	carbamoyl-phosphate synthase large subunit 	MELO3C013218
+K14945	protein quaking	MELO3C013221
+K03696	ATP-dependent Clp protease ATP-binding subunit ClpC	MELO3C013228
+K02949	small subunit ribosomal protein S11e	MELO3C013245
+K05387	glutamate receptor, ionotropic, plant	MELO3C013246
+K14209	solute carrier family 36 (proton-coupled amino acid transporter)	MELO3C013250
+K13648	alpha-1,4-galacturonosyltransferase 	MELO3C013255
+K01409	N6-L-threonylcarbamoyladenine synthase 	MELO3C013276
+K14488	SAUR family protein	MELO3C013302
+K12271	signal recognition particle 43 kDa protein	MELO3C013306
+K04730	interleukin-1 receptor-associated kinase 1 	MELO3C013308
+K11804	WD repeat-containing protein 42A	MELO3C013326
+K09872	aquaporin PIP	MELO3C013347
+K15893	hydroxypyruvate reductase 1	MELO3C013350
+K10752	histone-binding protein RBBP4	MELO3C013356
+K06689	ubiquitin-conjugating enzyme E2 D/E 	MELO3C013359
+K00434	L-ascorbate peroxidase 	MELO3C013363
+K09422	myb proto-oncogene protein, plant	MELO3C013364
+K01244	5'-methylthioadenosine nucleosidase 	MELO3C013382
+K14488	SAUR family protein	MELO3C013384
+K14488	SAUR family protein	MELO3C013385
+K14488	SAUR family protein	MELO3C013386
+K14488	SAUR family protein	MELO3C013387
+K14488	SAUR family protein	MELO3C013394
+K14488	SAUR family protein	MELO3C013396
+K14488	SAUR family protein	MELO3C013397
+K14488	SAUR family protein	MELO3C013398
+K14488	SAUR family protein	MELO3C013399
+K14488	SAUR family protein	MELO3C013400
+K14488	SAUR family protein	MELO3C013402
+K14488	SAUR family protein	MELO3C013403
+K19033	RPS31	MELO3C013419
+K11498	centromeric protein E	MELO3C013429
+K05236	coatomer protein complex, subunit alpha (xenin)	MELO3C013434
+K02212	DNA replication licensing factor MCM4 	MELO3C013436
+K16285	RING/U-box domain-containing protein	MELO3C013454
+K00021	hydroxymethylglutaryl-CoA reductase (NADPH) 	MELO3C013480
+K13157	U11/U12 small nuclear ribonucleoprotein 65 kDa protein	MELO3C013491
+K00485	dimethylaniline monooxygenase (N-oxide forming) 	MELO3C013529
+K18812	cyclin D6, plant	MELO3C013544
+K00485	dimethylaniline monooxygenase (N-oxide forming) 	MELO3C013562
+K14487	auxin responsive GH3 gene family	MELO3C013566
+K02116	ATP synthase protein I	MELO3C013567
+K10712	cysteamine dioxygenase 	MELO3C013579
+K00485	dimethylaniline monooxygenase (N-oxide forming) 	MELO3C013590
+K00218	protochlorophyllide reductase 	MELO3C013592
+K10666	E3 ubiquitin-protein ligase RNF5 	MELO3C013615
+K08819	cyclin-dependent kinase 12/13 	MELO3C013624
+K08819	cyclin-dependent kinase 12/13 	MELO3C013625
+K15397	3-ketoacyl-CoA synthase 	MELO3C013669
+K15276	solute carrier family 35 (adenosine 3'-phospho 5'-phosphosulfate transporter),	MELO3C013673
+K09422	myb proto-oncogene protein, plant	MELO3C013677
+K07901	Ras-related protein Rab-8A	MELO3C013681
+K11252	histone H2B	MELO3C013684
+K01051	pectinesterase 	MELO3C013699
+K07088		MELO3C013710
+K07088		MELO3C013711
+K08999	hypothetical protein	MELO3C013740
+K02641	ferredoxin--NADP+ reductase 	MELO3C013765
+K15151	mediator of RNA polymerase II transcription subunit 10	MELO3C013773
+K01761	methionine-gamma-lyase 	MELO3C013774
+K01187	alpha-glucosidase 	MELO3C013786
+K00558	DNA (cytosine-5)-methyltransferase 1 	MELO3C013806
+K00855	phosphoribulokinase 	MELO3C013811
+K12668	oligosaccharyltransferase complex subunit epsilon	MELO3C013822
+K09658	dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit	MELO3C013830
+K13422	transcription factor MYC2	MELO3C013851
+K14496	abscisic acid receptor PYR/PYL family	MELO3C013854
+K04123	ent-kaurenoic acid hydroxylase 	MELO3C013867
+K04123	ent-kaurenoic acid hydroxylase 	MELO3C013868
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C013869
+K19042	E3 ubiquitin-protein ligase BOI and related proteins 	MELO3C013883
+K01177	beta-amylase 	MELO3C013887
+K08494	novel plant SNARE	MELO3C013889
+K06268	serine/threonine-protein phosphatase 2B regulatory subunit	MELO3C013892
+K14498	serine/threonine-protein kinase SRK2 	MELO3C013893
+K02884	large subunit ribosomal protein L19	MELO3C013906
+K07874	Ras-related protein Rab-1A	MELO3C013910
+K09286	EREBP-like factor	MELO3C013917
+K01074	palmitoyl-protein thioesterase 	MELO3C013920
+K01433	formyltetrahydrofolate deformylase 	MELO3C013927
+K01893	asparaginyl-tRNA synthetase 	MELO3C013939
+K13993	HSP20 family protein	MELO3C013945
+K13993	HSP20 family protein	MELO3C013946
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C013960
+K00759	adenine phosphoribosyltransferase 	MELO3C013962
+K15033	peptidyl-tRNA hydrolase ICT1 	MELO3C013984
+K14324	histone deacetylase complex subunit SAP18	MELO3C014010
+K01115	phospholipase D1/2 	MELO3C014016
+K01641	hydroxymethylglutaryl-CoA synthase 	MELO3C014017
+K02553	regulator of ribonuclease activity A	MELO3C014067
+K09422	myb proto-oncogene protein, plant	MELO3C014085
+K01177	beta-amylase 	MELO3C014105
+K03027	DNA-directed RNA polymerases I and III subunit RPAC1	MELO3C014111
+K12863	protein CWC15	MELO3C014122
+K08905	photosystem I subunit V	MELO3C014124
+K16616	actin-related protein 8, plant	MELO3C014127
+K13448	calcium-binding protein CML	MELO3C014128
+K06911		MELO3C014144
+K06911		MELO3C014145
+K03531	cell division protein FtsZ	MELO3C014156
+K08245	phytepsin 	MELO3C014161
+K16732	protein regulator of cytokinesis 1	MELO3C014173
+K01626	3-deoxy-7-phosphoheptulonate synthase 	MELO3C014175
+K03687	molecular chaperone GrpE	MELO3C014179
+K11996	adenylyltransferase and sulfurtransferase	MELO3C014186
+K18207	protein O-mannose beta-1,4-N-acetylglucosaminyltransferase 	MELO3C014192
+K11982	E3 ubiquitin-protein ligase RNF115/126 	MELO3C014199
+K10775	phenylalanine ammonia-lyase 	MELO3C014224
+K10775	phenylalanine ammonia-lyase 	MELO3C014227
+K10775	phenylalanine ammonia-lyase 	MELO3C014229
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C014236
+K02870	large subunit ribosomal protein L12e	MELO3C014237
+K09872	aquaporin PIP	MELO3C014238
+K09872	aquaporin PIP	MELO3C014239
+K09872	aquaporin PIP	MELO3C014240
+K09872	aquaporin PIP	MELO3C014241
+K02930	large subunit ribosomal protein L4e	MELO3C014262
+K14484	auxin-responsive protein IAA	MELO3C014266
+K13448	calcium-binding protein CML	MELO3C014279
+K13811	3'-phosphoadenosine 5'-phosphosulfate synthase 	MELO3C014280
+K08967	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase 	MELO3C014282
+K08099	chlorophyllase 	MELO3C014286
+K02984	small subunit ribosomal protein S3Ae	MELO3C014292
+K00547	homocysteine S-methyltransferase 	MELO3C014294
+K06890		MELO3C014302
+K14484	auxin-responsive protein IAA	MELO3C014310
+K01695	tryptophan synthase alpha chain 	MELO3C014311
+K12502	MPBQ/MSBQ methyltransferase 	MELO3C014321
+K09419	heat shock transcription factor, other eukaryote	MELO3C014323
+K09419	heat shock transcription factor, other eukaryote	MELO3C014324
+K00432	glutathione peroxidase 	MELO3C014348
+K03131	transcription initiation factor TFIID subunit 6	MELO3C014358
+K08869	aarF domain-containing kinase	MELO3C014367
+K14432	ABA responsive element binding factor	MELO3C014384
+K02838	ribosome recycling factor	MELO3C014391
+K04120	ent-copalyl diphosphate synthase 	MELO3C014392
+K08145	MFS transporter, SP family, solute carrier family 2	MELO3C014417
+1-aminocyclopropane-1-carboxylate	oxidase 1 (EC:1.14.17.4)	MELO3C014437
+K04459	dual specificity MAP kinase phosphatase 	MELO3C014446
+K13993	HSP20 family protein	MELO3C014451
+K02433	aspartyl-tRNA(Asn)/glutamyl-tRNA(Gln) amidotransferase subunit A 	MELO3C014457
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C014465
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C014466
+brassinosteroid-regulated	protein BRU1-like	MELO3C014468
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C014469
+K04371	mitogen-activated protein kinase 1/3 	MELO3C014472
+K13508	glycerol-3-phosphate acyltransferase 	MELO3C014475
+K00276	primary-amine oxidase 	MELO3C014479
+K15718	linoleate 9S-lipoxygenase 	MELO3C014482
+K15188	cyclin T	MELO3C014488
+K13354	solute carrier family 25 (peroxisomal adenine nucleotide transporter),	MELO3C014497
+K02326	DNA polymerase epsilon subunit 3 	MELO3C014503
+K08857	NIMA (never in mitosis gene a)-related kinase 	MELO3C014518
+K10754	replication factor C subunit 1	MELO3C014528
+K10754	replication factor C subunit 1	MELO3C014529
+K01640	hydroxymethylglutaryl-CoA lyase 	MELO3C014547
+K01464	dihydropyrimidinase 	MELO3C014554
+K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	MELO3C014568
+K03404	magnesium chelatase subunit D 	MELO3C014571
+K00844	hexokinase 	MELO3C014574
+K13412	calcium-dependent protein kinase 	MELO3C014588
+K08064	nuclear transcription factor Y, alpha	MELO3C014590
+K03977	GTP-binding protein	MELO3C014599
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C014600
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C014601
+K07277	outer membrane protein insertion porin family	MELO3C014605
+K07238	zinc transporter, ZIP family	MELO3C014607
+K00454	lipoxygenase 	MELO3C014627
+K00454	lipoxygenase 	MELO3C014631
+K00454	lipoxygenase 	MELO3C014632
+K00454	lipoxygenase 	MELO3C014636
+K00454	lipoxygenase 	MELO3C014637
+K00454	lipoxygenase 	MELO3C014638
+K00208	enoyl-	MELO3C014644
+K00430	peroxidase 	MELO3C014655
+K00430	peroxidase 	MELO3C014656
+K00430	peroxidase 	MELO3C014657
+K00430	peroxidase 	MELO3C014658
+K11594	ATP-dependent RNA helicase DDX3X 	MELO3C014675
+K02867	large subunit ribosomal protein L11	MELO3C014694
+K02183	calmodulin	MELO3C014698
+K09842	abscisic-aldehyde oxidase 	MELO3C014719
+K07374	tubulin alpha	MELO3C014723
+K15104	solute carrier family 25 (mitochondrial oxoglutarate transporter), member	MELO3C014724
+K04567	lysyl-tRNA synthetase, class II 	MELO3C014727
+K01895	acetyl-CoA synthetase 	MELO3C014749
+K11805	WD repeat-containing protein 68	MELO3C014751
+K05298	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) 	MELO3C014752
+K00660	chalcone synthase 	MELO3C014767
+K07877	Ras-related protein Rab-2A	MELO3C014794
+K15102	solute carrier family 25 (mitochondrial phosphate transporter), member	MELO3C014803
+K12386	cystinosin	MELO3C014818
+K07556	ATP synthase mitochondrial F1 complex assembly factor 2	MELO3C014823
+K00939	adenylate kinase 	MELO3C014867
+K07342	protein transport protein SEC61 subunit gamma and related	MELO3C014891
+K02936	large subunit ribosomal protein L7Ae	MELO3C014906
+K03695	ATP-dependent Clp protease ATP-binding subunit ClpB	MELO3C014926
+K09338	homeobox-leucine zipper protein	MELO3C014944
+K15747	beta-ring hydroxylase 	MELO3C014945
+K11498	centromeric protein E	MELO3C015015
+K08332	vacuolar protein 8	MELO3C015024
+K13464	jasmonate ZIM domain-containing protein	MELO3C015030
+K09528	DnaJ homolog subfamily C member 8	MELO3C015043
+K12153	phenylalanine N-monooxygenase 	MELO3C015058
+K12153	phenylalanine N-monooxygenase 	MELO3C015059
+K08909	light-harvesting complex I chlorophyll a/b binding protein 3	MELO3C015076
+K07375	tubulin beta	MELO3C015098
+K14521	N-acetyltransferase 10 	MELO3C015100
+K14521	N-acetyltransferase 10 	MELO3C015101
+K01114	phospholipase C 	MELO3C015115
+K12153	phenylalanine N-monooxygenase 	MELO3C015139
+K12153	phenylalanine N-monooxygenase 	MELO3C015140
+K00830	alanine-glyoxylate transaminase / serine-glyoxylate transaminase / serine-pyruvate transaminase	MELO3C015151
+K00844	hexokinase 	MELO3C015169
+K02872	large subunit ribosomal protein L13Ae	MELO3C015177
+K00858	NAD+ kinase 	MELO3C015180
+K00392	sulfite reductase (ferredoxin) 	MELO3C015186
+K10277	lysine-specific demethylase 8 	MELO3C015209
+K01188	beta-glucosidase 	MELO3C015221
+K01188	beta-glucosidase 	MELO3C015223
+K01304	pyroglutamyl-peptidase 	MELO3C015249
+K05953	nicotianamine synthase 	MELO3C015257
+K02883	large subunit ribosomal protein L18e	MELO3C015293
+K04079	molecular chaperone HtpG	MELO3C015294
+K04079	molecular chaperone HtpG	MELO3C015295
+K12890	splicing factor, arginine/serine-rich 1/9	MELO3C015299
+K02891	large subunit ribosomal protein L22e	MELO3C015304
+K13051	beta-aspartyl-peptidase (threonine type) 	MELO3C015327
+K14820	ribosome biogenesis protein BRX1	MELO3C015338
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C015340
+K17426	large subunit ribosomal protein L45	MELO3C015343
+K04564	superoxide dismutase, Fe-Mn family 	MELO3C015351
+K00254	dihydroorotate dehydrogenase 	MELO3C015352
+K02975	small subunit ribosomal protein S25e	MELO3C015373
+K04565	superoxide dismutase, Cu-Zn family 	MELO3C015374
+K14521	N-acetyltransferase 10 	MELO3C015382
+K01738	cysteine synthase A 	MELO3C015396
+K01738	cysteine synthase A 	MELO3C015398
+K00029	malate dehydrogenase (oxaloacetate-decarboxylating)(NADP+) 	MELO3C015407
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C015409
+K15507	21S rRNA (GM2251-2'-O)-methyltransferase 	MELO3C015412
+K01887	arginyl-tRNA synthetase 	MELO3C015422
+K00469	inositol oxygenase 	MELO3C015430
+K02983	small subunit ribosomal protein S30e	MELO3C015431
+K02910	large subunit ribosomal protein L31e	MELO3C015438
+K01762	1-aminocyclopropane-1-carboxylate synthase 	MELO3C015444
+K01489	cytidine deaminase 	MELO3C015459
+K14848	ribosome assembly protein RRB1	MELO3C015462
+K05749	cytoplasmic FMR1 interacting protein	MELO3C015466
+K06889		MELO3C015483
+K08234	glyoxylase I family protein	MELO3C015494
+K15082	DNA repair protein RAD7	MELO3C015517
+K01366	cathepsin H 	MELO3C015523
+K18587	ubiquinone biosynthesis protein COQ9	MELO3C015535
+K13464	jasmonate ZIM domain-containing protein	MELO3C015538
+K14157	alpha-aminoadipic semialdehyde synthase 	MELO3C015556
+K15104	solute carrier family 25 (mitochondrial oxoglutarate transporter), member	MELO3C015584
+K15376	gephyrin 	MELO3C015599
+K03834	tyrosine-specific transport protein	MELO3C015606
+ABSCISIC	ACID-INSENSITIVE 5-like protein 2	MELO3C015611
+K02908	large subunit ribosomal protein L30e	MELO3C015628
+K00558	DNA (cytosine-5)-methyltransferase 1 	MELO3C015649
+K11000	callose synthase 	MELO3C015655
+K11000	callose synthase 	MELO3C015656
+K11000	callose synthase 	MELO3C015661
+K03801	lipoyl(octanoyl) transferase 	MELO3C015679
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C015685
+K00021	hydroxymethylglutaryl-CoA reductase (NADPH) 	MELO3C015691
+K16296	serine carboxypeptidase-like clade I 	MELO3C015711
+K14484	auxin-responsive protein IAA	MELO3C015762
+K14484	auxin-responsive protein IAA	MELO3C015763
+K02721	photosystem II PsbW protein	MELO3C015772
+K08857	NIMA (never in mitosis gene a)-related kinase 	MELO3C015799
+K09419	heat shock transcription factor, other eukaryote	MELO3C015804
+K10268	F-box and leucine-rich repeat protein 2/20	MELO3C015825
+K12817	pre-mRNA-splicing factor 18	MELO3C015826
+K02966	small subunit ribosomal protein S19e	MELO3C015841
+K10760	adenylate isopentenyltransferase (cytokinin synthase)	MELO3C015852
+K02358	elongation factor Tu	MELO3C015864
+K11801	WD repeat-containing protein 23	MELO3C015879
+K14493	gibberellin receptor GID1 	MELO3C015880
+K14549	U3 small nucleolar RNA-associated protein 15	MELO3C015885
+K13207	CUG-BP- and ETR3-like factor	MELO3C015889
+K11095	U1 small nuclear ribonucleoprotein C	MELO3C015891
+K10144	RING finger and CHY zinc finger domain-containing protein	MELO3C015903
+K06611	stachyose synthetase 	MELO3C015912
+K02210	DNA replication licensing factor MCM7 	MELO3C015926
+K07953	GTP-binding protein SAR1 	MELO3C015929
+K09584	protein disulfide-isomerase A6 	MELO3C015939
+K15115	solute carrier family 25 (mitochondrial folate transporter), member	MELO3C015958
+ethylene	response sensor 1	MELO3C015961
+K01051	pectinesterase 	MELO3C015962
+K01051	pectinesterase 	MELO3C015963
+K02891	large subunit ribosomal protein L22e	MELO3C015999
+K00949	thiamine pyrophosphokinase 	MELO3C016014
+K00799	glutathione S-transferase 	MELO3C016031
+K03549	KUP system potassium uptake protein	MELO3C016041
+K03676	glutaredoxin 3	MELO3C016053
+K03676	glutaredoxin 3	MELO3C016055
+K02160	acetyl-CoA carboxylase biotin carboxyl carrier protein	MELO3C016066
+K00012	UDPglucose 6-dehydrogenase 	MELO3C016068
+K00451	homogentisate 1,2-dioxygenase 	MELO3C016089
+K00026	malate dehydrogenase 	MELO3C016095
+K10956	protein transport protein SEC61 subunit alpha	MELO3C016113
+K14829	pre-rRNA-processing protein IPI3	MELO3C016114
+K10639	E3 ubiquitin-protein ligase CCNP1IP1 	MELO3C016116
+K12450	UDP-glucose 4,6-dehydratase 	MELO3C016119
+K01599	uroporphyrinogen decarboxylase 	MELO3C016131
+K04371	mitogen-activated protein kinase 1/3 	MELO3C016139
+K05356	all-trans-nonaprenyl-diphosphate synthase 	MELO3C016140
+K03352	anaphase-promoting complex subunit 5	MELO3C016147
+K04125	gibberellin 2-oxidase 	MELO3C016152
+K00799	glutathione S-transferase 	MELO3C016166
+K00799	glutathione S-transferase 	MELO3C016167
+K06955		MELO3C016180
+K03541	photosystem II 10kDa protein	MELO3C016181
+phytoene	synthase 2, chloroplastic-like	MELO3C016185
+K13681	xyloglucan fucosyltransferase 	MELO3C016188
+K02717	photosystem II oxygen-evolving enhancer protein 2	MELO3C016190
+K02901	large subunit ribosomal protein L27e	MELO3C016201
+abscisic	acid 8'-hydroxylase 1-like	MELO3C016219
+K00228	coproporphyrinogen III oxidase 	MELO3C016226
+K15382	solute carrier family 50 (sugar transporter)	MELO3C016259
+K14486	auxin response factor	MELO3C016272
+K03798	cell division protease FtsH 	MELO3C016278
+K01897	long-chain acyl-CoA synthetase 	MELO3C016290
+K03217	YidC/Oxa1 family membrane protein insertase	MELO3C016291
+K02519	translation initiation factor IF-2	MELO3C016316
+K00033	6-phosphogluconate dehydrogenase 	MELO3C016317
+K13425	WRKY transcription factor 22	MELO3C016338
+K01770	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase 	MELO3C016339
+K02947	small subunit ribosomal protein S10e	MELO3C016343
+K11498	centromeric protein E	MELO3C016369
+K01792	glucose-6-phosphate 1-epimerase 	MELO3C016374
+K01711	GDPmannose 4,6-dehydratase 	MELO3C016378
+K05909	laccase 	MELO3C016380
+K06287	septum formation protein	MELO3C016392
+K10688	ubiquitin-conjugating enzyme E2 W 	MELO3C016407
+K16052	MscS family membrane protein	MELO3C016418
+K00991	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase 	MELO3C016431
+K06962		MELO3C016443
+K08247	methionine S-methyltransferase 	MELO3C016448
+K02877	large subunit ribosomal protein L15e	MELO3C016459
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C016465
+K09919	hypothetical protein	MELO3C016473
+K01945	phosphoribosylamine--glycine ligase 	MELO3C016483
+K03233	elongation factor 1-gamma	MELO3C016487
+polygalacturonase-like		MELO3C016494
+K00979	3-deoxy-manno-octulosonate cytidylyltransferase (CMP-KDO synthetase) 	MELO3C016515
+K13348	protein Mpv17	MELO3C016541
+K08914	light-harvesting complex II chlorophyll a/b binding protein 3	MELO3C016556
+K18660	malonyl-CoA/methylmalonyl-CoA synthetase 	MELO3C016565
+K02895	large subunit ribosomal protein L24	MELO3C016583
+K15803	(-)-germacrene D synthase 	MELO3C016593
+K15803	(-)-germacrene D synthase 	MELO3C016594
+alpha-farnesene	synthase (EC:4.2.3.46)	MELO3C016595
+K08202	MFS transporter, OCT family, solute carrier family 22	MELO3C016601
+K12116	flavin-binding kelch repeat F-box protein 1	MELO3C016660
+K03327	multidrug resistance protein, MATE family	MELO3C016689
+K15377	solute carrier family 44 (choline transporter-like protein), member	MELO3C016707
+K08472	mlo protein	MELO3C016709
+K00218	protochlorophyllide reductase 	MELO3C016714
+K13963	serpin B	MELO3C016723
+K15891	farnesol dehydrogenase 	MELO3C016742
+K10395	kinesin family member 4/21/27	MELO3C016777
+K13051	beta-aspartyl-peptidase (threonine type) 	MELO3C016787
+K15040	voltage-dependent anion channel protein 2	MELO3C016818
+K14611	solute carrier family 23 (nucleobase transporter), member 1/2	MELO3C016825
+K14548	U3 small nucleolar RNA-associated protein 4	MELO3C016827
+K16296	serine carboxypeptidase-like clade I 	MELO3C016830
+K00511	squalene monooxygenase 	MELO3C016845
+K14496	abscisic acid receptor PYR/PYL family	MELO3C016864
+K00599	methyltransferase-like protein 6 	MELO3C016884
+K13993	HSP20 family protein	MELO3C016897
+K00279	cytokinin dehydrogenase 	MELO3C016911
+K15397	3-ketoacyl-CoA synthase 	MELO3C016929
+K15397	3-ketoacyl-CoA synthase 	MELO3C016930
+K17506	protein phosphatase 1L 	MELO3C016939
+K00430	peroxidase 	MELO3C016943
+K00432	glutathione peroxidase 	MELO3C016951
+K17086	transmembrane 9 superfamily member 2/4	MELO3C016957
+K16860	phospholipase D3/4 	MELO3C016958
+K07198	5'-AMP-activated protein kinase, catalytic alpha subunit 	MELO3C016967
+K03695	ATP-dependent Clp protease ATP-binding subunit ClpB	MELO3C016970
+K15414	complement component 1 Q subcomponent-binding protein, mitochondrial	MELO3C016977
+K01176	alpha-amylase 	MELO3C017002
+K03798	cell division protease FtsH 	MELO3C017011
+K03781	catalase 	MELO3C017023
+K12385	Niemann-Pick C1 protein	MELO3C017027
+K05298	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating) 	MELO3C017044
+K00895	pyrophosphate--fructose-6-phosphate 1-phosphotransferase 	MELO3C017063
+K06941	23S rRNA (adenine2503-C2)-methyltransferase 	MELO3C017082
+K17080	prohibitin 1	MELO3C017086
+K04728	ataxia telangiectasia mutated family protein 	MELO3C017087
+K16284	E3 ubiquitin-protein ligase SIS3 	MELO3C017097
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C017100
+K10576	ubiquitin-conjugating enzyme E2 H 	MELO3C017107
+K01205	alpha-N-acetylglucosaminidase 	MELO3C017123
+K01934	5-formyltetrahydrofolate cyclo-ligase 	MELO3C017137
+K02552	menaquinone-specific isochorismate synthase 	MELO3C017156
+K18467	vacuolar protein sorting-associated protein 29	MELO3C017163
+K00026	malate dehydrogenase 	MELO3C017175
+geranylgeranyl	diphosphate reductase, chloroplastic	MELO3C017176
+K08910	light-harvesting complex I chlorophyll a/b binding protein 4	MELO3C017180
+K18211	synaptosomal-associated protein 25	MELO3C017208
+K00012	UDPglucose 6-dehydrogenase 	MELO3C017213
+K12741	heterogeneous nuclear ribonucleoprotein A1/A3	MELO3C017226
+K08856	serine/threonine kinase 16 	MELO3C017263
+K02979	small subunit ribosomal protein S28e	MELO3C017290
+K09422	myb proto-oncogene protein, plant	MELO3C017315
+K02993	small subunit ribosomal protein S7e	MELO3C017316
+K14753	guanine nucleotide-binding protein subunit beta-2-like 1 protein	MELO3C017338
+K00799	glutathione S-transferase 	MELO3C017341
+K03327	multidrug resistance protein, MATE family	MELO3C017343
+K03327	multidrug resistance protein, MATE family	MELO3C017344
+K13448	calcium-binding protein CML	MELO3C017353
+phosphoethanolamine	N-methyltransferase 1-like	MELO3C017356
+K13947	auxin efflux carrier family	MELO3C017357
+K02885	large subunit ribosomal protein L19e	MELO3C017364
+K05349	beta-glucosidase 	MELO3C017382
+K01214	isoamylase 	MELO3C017391
+K01214	isoamylase 	MELO3C017392
+K03676	glutaredoxin 3	MELO3C017410
+K13947	auxin efflux carrier family	MELO3C017414
+K01535	H+-transporting ATPase 	MELO3C017450
+K10739	replication factor A2	MELO3C017458
+K00327	NADPH-ferrihemoprotein reductase 	MELO3C017461
+K01904	4-coumarate--CoA ligase 	MELO3C017473
+probable	xyloglucan endotransglucosylase/hydrolase protein 23	MELO3C017481
+K00833	adenosylmethionine-8-amino-7-oxononanoate aminotransferase 	MELO3C017490
+K00901	diacylglycerol kinase (ATP) 	MELO3C017511
+K01620	threonine aldolase 	MELO3C017520
+K00128	aldehyde dehydrogenase (NAD+) 	MELO3C017542
+K09338	homeobox-leucine zipper protein	MELO3C017549
+K02998	small subunit ribosomal protein SAe	MELO3C017553
+K19001	ATP-dependent DNA helicase	MELO3C017558
+K13418	somatic embryogenesis receptor kinase 1 	MELO3C017569
+K14431	transcription factor TGA	MELO3C017572
+K03016	DNA-directed RNA polymerases I, II, and III subunit	MELO3C017579
+K17469	sulfate transporter 2, low-affinity	MELO3C017580
+K01858	myo-inositol-1-phosphate synthase 	MELO3C017581
+K02372	3-hydroxyacyl-	MELO3C017583
+K11253	histone H3	MELO3C017598
+K14396	polyadenylate-binding protein 2	MELO3C017602
+K02873	large subunit ribosomal protein L13e	MELO3C017622
+K04564	superoxide dismutase, Fe-Mn family 	MELO3C017624
+K07304	peptide-methionine (S)-S-oxide reductase 	MELO3C017632
+K06911		MELO3C017671
+K11518	mitochondrial import receptor subunit TOM40	MELO3C017676
+K13130	survival of motor neuron protein-interacting protein 1	MELO3C017696
+K15535	phosphoglucan, water dikinase 	MELO3C017735
+K13412	calcium-dependent protein kinase 	MELO3C017756
+K01069	hydroxyacylglutathione hydrolase 	MELO3C017798
+K16297	serine carboxypeptidase-like clade II 	MELO3C017807
+K05917	sterol 14-demethylase 	MELO3C017815
+K00616	transaldolase 	MELO3C017817
+K14487	auxin responsive GH3 gene family	MELO3C017825
+K17824	DCN1-like protein 4/5	MELO3C017837
+K00507	stearoyl-CoA desaturase (delta-9 desaturase) 	MELO3C017876
+K06130	lysophospholipase II 	MELO3C017906
+K09422	myb proto-oncogene protein, plant	MELO3C017925
+K00770	1,4-beta-D-xylan synthase 	MELO3C017931
+K00770	1,4-beta-D-xylan synthase 	MELO3C017932
+K10406	kinesin family member C2/C3	MELO3C017936
+K09286	EREBP-like factor	MELO3C017940
+K00695	sucrose synthase 	MELO3C017942
+K03452	magnesium/proton exchanger	MELO3C017953
+K08678	UDP-glucuronate decarboxylase 	MELO3C017955
+K14859	ribosome biogenesis protein SSF1/2	MELO3C017956
+K01188	beta-glucosidase 	MELO3C017964
+K03549	KUP system potassium uptake protein	MELO3C017974
+K13348	protein Mpv17	MELO3C017989
+K00860	adenylylsulfate kinase 	MELO3C018012
+K14611	solute carrier family 23 (nucleobase transporter), member 1/2	MELO3C018017
+K07374	tubulin alpha	MELO3C018025
+K01876	aspartyl-tRNA synthetase 	MELO3C018029
+K10206	LL-diaminopimelate aminotransferase 	MELO3C018037
+K00028	malate dehydrogenase (decarboxylating) 	MELO3C018058
+K07513	acetyl-CoA acyltransferase 1 	MELO3C018060
+K08504	blocked early in transport 1	MELO3C018066
+K01696	tryptophan synthase beta chain 	MELO3C018082
+K03522	electron transfer flavoprotein alpha subunit	MELO3C018098
+K08770	ubiquitin C	MELO3C018099
+K03671	thioredoxin 1	MELO3C018122
+K02938	large subunit ribosomal protein L8e	MELO3C018148
+K01188	beta-glucosidase 	MELO3C018149
+K14487	auxin responsive GH3 gene family	MELO3C018166
+K10418	dynein light chain LC8-type	MELO3C018185
+K10357	myosin V	MELO3C018188
+K10357	myosin V	MELO3C018189
+K05350	beta-glucosidase 	MELO3C018247
+K14847	ribosome production factor 2	MELO3C018272
+K04371	mitogen-activated protein kinase 1/3 	MELO3C018306
+K12119	cryptochrome 2	MELO3C018340
+K15728	phosphatidate phosphatase LPIN 	MELO3C018360
+K17506	protein phosphatase 1L 	MELO3C018362
+K03844	alpha-1,2-mannosyltransferase 	MELO3C018365
+K02987	small subunit ribosomal protein S4e	MELO3C018378
+K00522	ferritin heavy chain 	MELO3C018379
+K01227	mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase 	MELO3C018385
+K14496	abscisic acid receptor PYR/PYL family	MELO3C018394
+K07399	cytochrome c biogenesis protein	MELO3C018406
+K03527	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 	MELO3C018407
+K01723	hydroperoxide dehydratase 	MELO3C018412
+allene	oxide synthase 2-like	MELO3C018413
+K06972"		MELO3C018441
+K13448	calcium-binding protein CML	MELO3C018445
+K09843	(+)-abscisic acid 8'-hydroxylase 	MELO3C018449
+K00588	caffeoyl-CoA O-methyltransferase 	MELO3C018450
+K03671	thioredoxin 1	MELO3C018455
+K14432	ABA responsive element binding factor	MELO3C018458
+K02960	small subunit ribosomal protein S16e	MELO3C018459
+K13126	polyadenylate-binding protein	MELO3C018462
+K14505	cyclin D3, plant	MELO3C018476
+K07937	ADP-ribosylation factor 1	MELO3C018481
+K13993	HSP20 family protein	MELO3C018485
+K01358	ATP-dependent Clp protease, protease subunit 	MELO3C018514
+K07955	ADP-ribosylation factor-like protein 8	MELO3C018523
+K07374	tubulin alpha	MELO3C018532
+K02331	DNA polymerase phi 	MELO3C018559
+K02492	glutamyl-tRNA reductase 	MELO3C018565
+K07305	peptide-methionine (R)-S-oxide reductase 	MELO3C018569
+K01845	glutamate-1-semialdehyde 2,1-aminomutase 	MELO3C018572
+K01507	inorganic pyrophosphatase 	MELO3C018573
+K00140	malonate-semialdehyde dehydrogenase (acetylating) / methylmalonate-semialdehyde dehydrogenase 	MELO3C018583
+K08596	sentrin-specific protease 7 	MELO3C018604
+K02548	1,4-dihydroxy-2-naphthoate octaprenyltransferase 	MELO3C018621
+K01626	3-deoxy-7-phosphoheptulonate synthase 	MELO3C018622
+K05894	12-oxophytodienoic acid reductase 	MELO3C018626
+K00430	peroxidase 	MELO3C018656
+K15920	beta-D-xylosidase 4 	MELO3C018667
+K00430	peroxidase 	MELO3C018672
+actin-7-like		MELO3C018683
+K08066	nuclear transcription factor Y, gamma	MELO3C018689
+K17506	protein phosphatase 1L 	MELO3C018708
+K03798	cell division protease FtsH 	MELO3C018713
+K16055	trehalose 6-phosphate synthase/phosphatase 	MELO3C018715
+K01595	phosphoenolpyruvate carboxylase 	MELO3C018724
+K16900	two pore calcium channel protein, plant	MELO3C018734
+K08902	photosystem II Psb27 protein	MELO3C018748
+K13348	protein Mpv17	MELO3C018750
+K03644	lipoic acid synthetase 	MELO3C018756
+K17871	NADH:ubiquinone reductase (non-electrogenic) 	MELO3C018763
+K02636	cytochrome b6-f complex iron-sulfur subunit 	MELO3C018775
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C018785
+K03113	translation initiation factor 1	MELO3C018807
+K09338	homeobox-leucine zipper protein	MELO3C018809
+K02933	large subunit ribosomal protein L6	MELO3C018813
+K03327	multidrug resistance protein, MATE family	MELO3C018814
+K03327	multidrug resistance protein, MATE family	MELO3C018815
+K10528	hydroperoxide lyase 	MELO3C018833
+K06207	GTP-binding protein	MELO3C018847
+K06207	GTP-binding protein	MELO3C018848
+K09510	DnaJ homolog subfamily B member 4	MELO3C018866
+K03236	translation initiation factor 1A	MELO3C018872
+K03131	transcription initiation factor TFIID subunit 6	MELO3C018875
+K00688	starch phosphorylase 	MELO3C018948
+K03327	multidrug resistance protein, MATE family	MELO3C018967
+K02942	large subunit ribosomal protein LP1	MELO3C018985
+K00286	pyrroline-5-carboxylate reductase 	MELO3C019039
+K17479	glutaredoxin domain-containing cysteine-rich protein 1	MELO3C019048
+K14492	two-component response regulator ARR-A family	MELO3C019056
+K02470	DNA gyrase subunit B 	MELO3C019089
+K00705	4-alpha-glucanotransferase 	MELO3C019135
+K03626	nascent polypeptide-associated complex subunit alpha	MELO3C019140
+K11982	E3 ubiquitin-protein ligase RNF115/126 	MELO3C019142
+K19034	50S ribosomal protein 5	MELO3C019148
+K09422	myb proto-oncogene protein, plant	MELO3C019161
+K13495	cis-zeatin O-glucosyltransferase 	MELO3C019177
+K18134	protein O-GlcNAc transferase 	MELO3C019188
+K17771	mitochondrial import receptor subunit TOM7	MELO3C019213
+K00430	peroxidase 	MELO3C019239
+K09338	homeobox-leucine zipper protein	MELO3C019250
+K05387	glutamate receptor, ionotropic, plant	MELO3C019260
+K08341	GABA(A) receptor-associated protein	MELO3C019271
+K05359	arogenate/prephenate dehydratase 	MELO3C019277
+K14012	UBX domain-containing protein 1	MELO3C019307
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C019310
+K07904	Ras-related protein Rab-11A	MELO3C019318
+K09510	DnaJ homolog subfamily B member 4	MELO3C019334
+K00074	3-hydroxybutyryl-CoA dehydrogenase 	MELO3C019405
+K16054	methylthioribulose 1-phosphate dehydratase / enolase-phosphatase E1 	MELO3C019407
+K16075	magnesium transporter	MELO3C019432
+K02639	ferredoxin	MELO3C019438
+K02639	ferredoxin	MELO3C019440
+K02639	ferredoxin	MELO3C019441
+K02960	small subunit ribosomal protein S16e	MELO3C019490
+K01881	prolyl-tRNA synthetase 	MELO3C019492
+K07119		MELO3C019503
+K00366	ferredoxin-nitrite reductase 	MELO3C019505
+K10875	DNA repair and recombination protein RAD54 and RAD54-like	MELO3C019510
+K02960	small subunit ribosomal protein S16e	MELO3C019524
+K14498	serine/threonine-protein kinase SRK2 	MELO3C019534
+K14505	cyclin D3, plant	MELO3C019540
+K00058	D-3-phosphoglycerate dehydrogenase 	MELO3C019542
+K00083	cinnamyl-alcohol dehydrogenase 	MELO3C019548
+K15923	alpha-L-fucosidase 2 	MELO3C019553
+K01784	UDP-glucose 4-epimerase 	MELO3C019557
+K06689	ubiquitin-conjugating enzyme E2 D/E 	MELO3C019589
+K01246	DNA-3-methyladenine glycosylase I 	MELO3C019611
+K16280	E3 ubiquitin-protein ligase RGLG 	MELO3C019616
+K00927	phosphoglycerate kinase 	MELO3C019634
+K03798	cell division protease FtsH 	MELO3C019635
+K14488	SAUR family protein	MELO3C019649
+K03234	elongation factor 2	MELO3C019668
+K08912	light-harvesting complex II chlorophyll a/b binding protein 1	MELO3C019677
+K13648	alpha-1,4-galacturonosyltransferase 	MELO3C019691
+K03234	elongation factor 2	MELO3C019697
+K01647	citrate synthase 	MELO3C019711
+K10143	E3 ubiquitin-protein ligase RFWD2 	MELO3C019731
+K18045	tyrosine-protein phosphatase SIW14 	MELO3C019734
+K05933	aminocyclopropanecarboxylate oxidase 	MELO3C019735
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C019780
+K12613	mRNA-decapping enzyme subunit 2 	MELO3C019797
+K13113	ubiquitin-like protein 5	MELO3C019800
+K00856	adenosine kinase 	MELO3C019810
+K15015	solute carrier family 32 (vesicular inhibitory amino acid	MELO3C019816
+K01728	pectate lyase 	MELO3C019840
+K07910	Ras-related protein Rab-18	MELO3C019844
+K02639	ferredoxin	MELO3C019895
+K02962	small subunit ribosomal protein S17e	MELO3C019907
+K14404	cleavage and polyadenylation specificity factor subunit 4	MELO3C019922
+K00939	adenylate kinase 	MELO3C019938
+K15730	cytosolic prostaglandin-E synthase 	MELO3C019955
+K13126	polyadenylate-binding protein	MELO3C019964
+K02945	small subunit ribosomal protein S1	MELO3C019971
+K02964	small subunit ribosomal protein S18e	MELO3C019979
+K11254	histone H4	MELO3C019997
+K06901	putative MFS transporter, AGZA family, xanthine/uracil permease	MELO3C020000
+K02976	small subunit ribosomal protein S26e	MELO3C020003
+K14545	ribosomal RNA-processing protein 7	MELO3C020033
+K02989	small subunit ribosomal protein S5e	MELO3C020049
+K14489	arabidopsis histidine kinase 2/3/4 (cytokinin receptor) 	MELO3C020055
+K01599	uroporphyrinogen decarboxylase 	MELO3C020115
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C020123
+K03549	KUP system potassium uptake protein	MELO3C020132
+K07407	alpha-galactosidase 	MELO3C020138
+K07407	alpha-galactosidase 	MELO3C020139
+K02976	small subunit ribosomal protein S26e	MELO3C020141
+K14494	DELLA protein	MELO3C020206
+K09422	myb proto-oncogene protein, plant	MELO3C020225
+K15192	TATA-binding protein-associated factor 	MELO3C020233
+K13448	calcium-binding protein CML	MELO3C020263
+K13448	calcium-binding protein CML	MELO3C020277
+K09874	aquaporin NIP	MELO3C020281
+K16573	gamma-tubulin complex component 6	MELO3C020298
+K00696	sucrose-phosphate synthase 	MELO3C020357
+K02921	large subunit ribosomal protein L37Ae	MELO3C020369
+K00297	methylenetetrahydrofolate reductase (NADPH) 	MELO3C020408
+K14772	U3 small nucleolar RNA-associated protein 20	MELO3C020424
+K08679	UDP-glucuronate 4-epimerase 	MELO3C020428
+serine	hydroxymethyltransferase 4	MELO3C020429
+K01251	adenosylhomocysteinase 	MELO3C020432
+K02872	large subunit ribosomal protein L13Ae	MELO3C020452
+K17108	non-lysosomal glucosylceramidase 	MELO3C020463
+K08869	aarF domain-containing kinase	MELO3C020465
+K13424	WRKY transcription factor 33	MELO3C020489
+K15078	structure-specific endonuclease subunit SLX1 	MELO3C020503
+K08059	interferon, gamma-inducible protein 30	MELO3C020509
+K08059	interferon, gamma-inducible protein 30	MELO3C020510
+K00645		MELO3C020514
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C020528
+K01568	pyruvate decarboxylase 	MELO3C020531
+K03549	KUP system potassium uptake protein	MELO3C020532
+K17506	protein phosphatase 1L 	MELO3C020536
+K03147	phosphomethylpyrimidine synthase 	MELO3C020562
+K03798	cell division protease FtsH 	MELO3C020563
+K08193	MFS transporter, ACS family, solute carrier family 17	MELO3C020576
+K13993	HSP20 family protein	MELO3C020587
+K13993	HSP20 family protein	MELO3C020588
+K14689	solute carrier family 30 (zinc transporter), member 2	MELO3C020600
+K14497	protein phosphatase 2C 	MELO3C020601
+K14424	4-alpha-methyl-delta7-sterol-4alpha-methyl oxidase 	MELO3C020602
+K08081	Tropinone reductase 1 	MELO3C020605
+K09843	(+)-abscisic acid 8'-hydroxylase 	MELO3C020613
+K07025	putative hydrolase of the HAD superfamily	MELO3C020616
+K07025	putative hydrolase of the HAD superfamily	MELO3C020617
+K02133	F-type H+-transporting ATPase subunit beta 	MELO3C020639
+K01627	2-dehydro-3-deoxyphosphooctonate aldolase (KDO 8-P synthase) 	MELO3C020651
+K15397	3-ketoacyl-CoA synthase 	MELO3C020670
+K10398	kinesin family member 11	MELO3C020688
+K02957	small subunit ribosomal protein S15Ae	MELO3C020704
+K07195	exocyst complex component 7	MELO3C020708
+K04371	mitogen-activated protein kinase 1/3 	MELO3C020718
+K00434	L-ascorbate peroxidase 	MELO3C020719
+K14674	TAG lipase / steryl ester hydrolase / phospholipase	MELO3C020721
+K06443	lycopene beta-cyclase 	MELO3C020744
+K00764	amidophosphoribosyltransferase 	MELO3C020749
+K14488	SAUR family protein	MELO3C020751
+K14488	SAUR family protein	MELO3C020752
+K14488	SAUR family protein	MELO3C020753
+K14488	SAUR family protein	MELO3C020754
+K14488	SAUR family protein	MELO3C020755
+K14488	SAUR family protein	MELO3C020757
+K14488	SAUR family protein	MELO3C020758
+K02951	small subunit ribosomal protein S12e	MELO3C020759
+K14488	SAUR family protein	MELO3C020760
+K14488	SAUR family protein	MELO3C020761
+K14488	SAUR family protein	MELO3C020762
+K14488	SAUR family protein	MELO3C020763
+K14488	SAUR family protein	MELO3C020764
+K14488	SAUR family protein	MELO3C020765
+K14488	SAUR family protein	MELO3C020766
+K14488	SAUR family protein	MELO3C020767
+K14488	SAUR family protein	MELO3C020769
+K14488	SAUR family protein	MELO3C020770
+K14488	SAUR family protein	MELO3C020771
+K01803	triosephosphate isomerase (TIM) 	MELO3C020780
+K04392	Ras-related C3 botulinum toxin substrate 1	MELO3C020816
+K12868	pre-mRNA-splicing factor SYF2	MELO3C020824
+K14553	U3 small nucleolar RNA-associated protein 18	MELO3C020849
+K00763	nicotinate phosphoribosyltransferase 	MELO3C020858
+K02320	DNA polymerase alpha subunit A 	MELO3C020860
+K09838	zeaxanthin epoxidase 	MELO3C020872
+K14498	serine/threonine-protein kinase SRK2 	MELO3C020888
+K13448	calcium-binding protein CML	MELO3C020899
+K13448	calcium-binding protein CML	MELO3C020900
+K02898	large subunit ribosomal protein L26e	MELO3C020906
+K13545	red chlorophyll catabolite reductase 	MELO3C020912
+K13545	red chlorophyll catabolite reductase 	MELO3C020913
+K02897	large subunit ribosomal protein L25	MELO3C020945
+K00705	4-alpha-glucanotransferase 	MELO3C020949
+K13789	geranylgeranyl diphosphate synthase, type II 	MELO3C020952
+K00891	shikimate kinase 	MELO3C020958
+K15111	solute carrier family 25 (mitochondrial S-adenosylmethionine transporter), member	MELO3C020966
+K17267	coatomer protein complex, subunit gamma	MELO3C020980
+K00888	phosphatidylinositol 4-kinase 	MELO3C020987
+K13456	RPM1-interacting protein 4	MELO3C021057
+K01051	pectinesterase 	MELO3C021067
+K13648	alpha-1,4-galacturonosyltransferase 	MELO3C021077
+K03283	heat shock 70kDa protein 1/8	MELO3C021100
+K09571	FK506-binding protein 4/5 	MELO3C021107
+K01893	asparaginyl-tRNA synthetase 	MELO3C021113
+K08341	GABA(A) receptor-associated protein	MELO3C021148
+K12598	ATP-dependent RNA helicase DOB1 	MELO3C021157
+K01897	long-chain acyl-CoA synthetase 	MELO3C021161
+K17285	selenium-binding protein 1	MELO3C021162
+K13076	delta8-fatty-acid desaturase 	MELO3C021176
+K13034	L-3-cyanoalanine synthase/ cysteine synthase 	MELO3C021201
+K13508	glycerol-3-phosphate acyltransferase 	MELO3C021206
+K07198	5'-AMP-activated protein kinase, catalytic alpha subunit 	MELO3C021231
+K10400	kinesin family member 15	MELO3C021238
+K00382	dihydrolipoamide dehydrogenase 	MELO3C021276
+K14491	two-component response regulator ARR-B family	MELO3C021290
+K14844	pumilio homology domain family member 6	MELO3C021296
+K09286	EREBP-like factor	MELO3C021306
+K03327	multidrug resistance protein, MATE family	MELO3C021314
+K10527	enoyl-CoA hydratase/3-hydroxyacyl-CoA dehydrogenase 	MELO3C021318
+K08678	UDP-glucuronate decarboxylase 	MELO3C021321
+K08678	UDP-glucuronate decarboxylase 	MELO3C021322
+K02971	small subunit ribosomal protein S21e	MELO3C021332
+K02872	large subunit ribosomal protein L13Ae	MELO3C021339
+K01662	1-deoxy-D-xylulose-5-phosphate synthase 	MELO3C021375
+K14490	histidine-containing phosphotransfer peotein	MELO3C021379
+K04371	mitogen-activated protein kinase 1/3 	MELO3C021394
+K16302	metal transporter CNNM	MELO3C021399
+K16302	metal transporter CNNM	MELO3C021400
+K10760	adenylate isopentenyltransferase (cytokinin synthase)	MELO3C021401
+K14431	transcription factor TGA	MELO3C021427
+K02943	large subunit ribosomal protein LP2	MELO3C021436
+K15634	probable phosphoglycerate mutase 	MELO3C021448
+K05359	arogenate/prephenate dehydratase 	MELO3C021449
+K12449	UDP-apiose/xylose synthase	MELO3C021465
+K01285	lysosomal Pro-X carboxypeptidase 	MELO3C021473
+K01285	lysosomal Pro-X carboxypeptidase 	MELO3C021474
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C021490
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C021491
+K00430	peroxidase 	MELO3C021513
+K14537	nuclear GTP-binding protein	MELO3C021514
+K08472	mlo protein	MELO3C021515
+K09338	homeobox-leucine zipper protein	MELO3C021534
+K18980	2-methylene-furan-3-one reductase 	MELO3C021536
+K00278	L-aspartate oxidase 	MELO3C021545
+K02935	large subunit ribosomal protein L7/L12	MELO3C021553
+K08232	monodehydroascorbate reductase (NADH) 	MELO3C021554
+K07937	ADP-ribosylation factor 1	MELO3C021556
+K15283	solute carrier family 35, member E1	MELO3C021558
+K03676	glutaredoxin 3	MELO3C021562
+K15271	ATP-dependent DNA helicase HFM1/MER3 	MELO3C021565
+K14850	ribosomal RNA-processing protein 8 	MELO3C021585
+K00737	beta-1,4-mannosyl-glycoprotein beta-1,4-N-acetylglucosaminyltransferase 	MELO3C021589
+K00006	glycerol-3-phosphate dehydrogenase (NAD+) 	MELO3C021604
+K18156	mitochondrial inner membrane protease ATP23 	MELO3C021605
+K12386	cystinosin	MELO3C021612
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C021624
+K03283	heat shock 70kDa protein 1/8	MELO3C021648
+K04460	serine/threonine-protein phosphatase 5 	MELO3C021657
+K03283	heat shock 70kDa protein 1/8	MELO3C021658
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C021685
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C021686
+K17893	ubiquinol oxidase 	MELO3C021708
+K17893	ubiquinol oxidase 	MELO3C021713
+K00895	pyrophosphate--fructose-6-phosphate 1-phosphotransferase 	MELO3C021720
+K12260	sulfiredoxin 	MELO3C021735
+K07393	putative glutathione S-transferase	MELO3C021757
+K03013	DNA-directed RNA polymerases I, II, and III subunit	MELO3C021758
+K10745	ribonuclease H2 subunit C	MELO3C021769
+K19042	E3 ubiquitin-protein ligase BOI and related proteins 	MELO3C021779
+K14709	solute carrier family 39 (zinc transporter), member 1/2/3	MELO3C021780
+K01187	alpha-glucosidase 	MELO3C021782
+K02694	photosystem I subunit III	MELO3C021788
+K14508	regulatory protein NPR1	MELO3C021795
+K01807	ribose 5-phosphate isomerase A 	MELO3C021811
+K00913	inositol-1,3,4-trisphosphate 5/6-kinase / inositol-tetrakisphosphate 1-kinase 	MELO3C021867
+K05864	peptidyl-prolyl isomerase D 	MELO3C021912
+K14498	serine/threonine-protein kinase SRK2 	MELO3C021918
+K01897	long-chain acyl-CoA synthetase 	MELO3C021941
+K07007		MELO3C021965
+K07007		MELO3C021969
+K01535	H+-transporting ATPase 	MELO3C021972
+K17479	glutaredoxin domain-containing cysteine-rich protein 1	MELO3C021979
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C021982
+K03798	cell division protease FtsH 	MELO3C021988
+K09422	myb proto-oncogene protein, plant	MELO3C022003
+K01850	chorismate mutase 	MELO3C022018
+K07735	putative transcriptional regulator	MELO3C022019
+K12640	brassinosteroid-6-oxidase 2 	MELO3C022045
+K00555	tRNA (guanine26-N2/guanine27-N2)-dimethyltransferase 	MELO3C022046
+K10691	E3 ubiquitin-protein ligase UBR4 	MELO3C022052
+K10908	DNA-directed RNA polymerase, mitochondrial 	MELO3C022058
+K00318	proline dehydrogenase 	MELO3C022076
+K10525	allene oxide cyclase 	MELO3C022090
+K09498	T-complex protein 1 subunit zeta	MELO3C022094
+K10717	cytokinin trans-hydroxylase	MELO3C022098
+K02866	large subunit ribosomal protein L10e	MELO3C022104
+K08916	light-harvesting complex II chlorophyll a/b binding protein 5	MELO3C022113
+K06995		MELO3C022114
+K13993	HSP20 family protein	MELO3C022116
+K19039	E3 ubiquitin-protein ligase ATL7/58/59 	MELO3C022123
+K17609	nucleoredoxin 	MELO3C022140
+probable	nucleoredoxin 1	MELO3C022141
+K12831	splicing factor 3B subunit 4	MELO3C022159
+K12524	bifunctional aspartokinase / homoserine dehydrogenase 1 	MELO3C022169
+K12524	bifunctional aspartokinase / homoserine dehydrogenase 1 	MELO3C022170
+K18167	succinate dehydrogenase assembly factor 1	MELO3C022175
+K17108	non-lysosomal glucosylceramidase 	MELO3C022176
+K02997	small subunit ribosomal protein S9e	MELO3C022177
+K13617	protein phosphatase methylesterase 1 	MELO3C022178
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C022225
+K01061	carboxymethylenebutenolidase 	MELO3C022228
+K03294	basic amino acid/polyamine antiporter, APA family	MELO3C022273
+K02355	elongation factor G	MELO3C022276
+K01507	inorganic pyrophosphatase 	MELO3C022299
+K12133	MYB-related transcription factor LHY	MELO3C022302
+K13126	polyadenylate-binding protein	MELO3C022304
+K14489	arabidopsis histidine kinase 2/3/4 (cytokinin receptor) 	MELO3C022310
+K01634	sphinganine-1-phosphate aldolase 	MELO3C022321
+K03768	peptidyl-prolyl cis-trans isomerase B (cyclophilin B) 	MELO3C022335
+K04730	interleukin-1 receptor-associated kinase 1 	MELO3C022355
+K01853	cycloartenol synthase 	MELO3C022374
+K02894	large subunit ribosomal protein L23e	MELO3C022386
+K08903	photosystem II 13kDa protein	MELO3C022393
+K03255	protein TIF31	MELO3C022410
+K06184	ATP-binding cassette, subfamily F, member 1	MELO3C022420
+K00847	fructokinase 	MELO3C022452
+K15404	aldehyde decarbonylase 	MELO3C022464
+K04123	ent-kaurenoic acid hydroxylase 	MELO3C022468
+K02906	large subunit ribosomal protein L3	MELO3C022485
+K15292	syntaxin-binding protein 1	MELO3C022501
+K14826	FK506-binding nuclear protein 	MELO3C022502
+K13648	alpha-1,4-galacturonosyltransferase 	MELO3C022517
+K13352	peroxin-11B	MELO3C022531
+K02893	large subunit ribosomal protein L23Ae	MELO3C022601
+K14805	ATP-dependent RNA helicase DDX24/MAK5 	MELO3C022638
+K16297	serine carboxypeptidase-like clade II 	MELO3C022641
+K11517	(S)-2-hydroxy-acid oxidase 	MELO3C022683
+K11517	(S)-2-hydroxy-acid oxidase 	MELO3C022684
+K02998	small subunit ribosomal protein SAe	MELO3C022691
+K01051	pectinesterase 	MELO3C022704
+K09561	STIP1 homology and U-box containing protein 1 	MELO3C022725
+K13691	pathogen-inducible salicylic acid glucosyltransferase 	MELO3C022736
+K10534	nitrate reductase (NAD(P)H) 	MELO3C022772
+K11262	acetyl-CoA carboxylase / biotin carboxylase 	MELO3C022793
+K17469	sulfate transporter 2, low-affinity	MELO3C022802
+K02908	large subunit ribosomal protein L30e	MELO3C022815
+K01915	glutamine synthetase 	MELO3C022828
+K06678	condensin complex subunit 3	MELO3C022833
+K14494	DELLA protein	MELO3C022854
+K07052		MELO3C022901
+K07052		MELO3C022903
+K14488	SAUR family protein	MELO3C022909
+K06675	structural maintenance of chromosome 4	MELO3C022910
+K13447	respiratory burst oxidase 	MELO3C022917
+K14516	ethylene-responsive transcription factor 1	MELO3C022985
+K12119	cryptochrome 2	MELO3C022995
+K12119	cryptochrome 2	MELO3C022996
+K09422	myb proto-oncogene protein, plant	MELO3C022997
+K00025	malate dehydrogenase 	MELO3C022998
+K02875	large subunit ribosomal protein L14e	MELO3C023012
+K13347	peroxisomal membrane protein 2	MELO3C023014
+K02894	large subunit ribosomal protein L23e	MELO3C023039
+K17769	mitochondrial import receptor subunit TOM22	MELO3C023044
+K14007	protein transport protein SEC24	MELO3C023056
+K04077	chaperonin GroEL	MELO3C023058
+K01177	beta-amylase 	MELO3C023067
+K03320	ammonium transporter, Amt family	MELO3C023074
+K09419	heat shock transcription factor, other eukaryote	MELO3C023104
+K00384	thioredoxin reductase (NADPH) 	MELO3C023105
+probable	galactinol--sucrose galactosyltransferase 2	MELO3C023110
+K10999	cellulose synthase A 	MELO3C023114
+K02981	small subunit ribosomal protein S2e	MELO3C023117
+K03403	magnesium chelatase subunit H 	MELO3C023131
+K02934	large subunit ribosomal protein L6e	MELO3C023168
+K10706	senataxin 	MELO3C023175
+K09422	myb proto-oncogene protein, plant	MELO3C023204
+K08472	mlo protein	MELO3C023219
+K01800	maleylacetoacetate isomerase 	MELO3C023220
+K02866	large subunit ribosomal protein L10e	MELO3C023223
+K01800	maleylacetoacetate isomerase 	MELO3C023224
+K14815	mRNA turnover protein 4	MELO3C023261
+K19040	E3 ubiquitin-protein ligase ATL10/75/76/77/78 	MELO3C023263
+K14857	AdoMet-dependent rRNA methyltransferase SPB1 	MELO3C023306
+K01586	diaminopimelate decarboxylase 	MELO3C023315
+K11498	centromeric protein E	MELO3C023342
+K00801	farnesyl-diphosphate farnesyltransferase 	MELO3C023346
+K05349	beta-glucosidase 	MELO3C023349
+K01179	endoglucanase 	MELO3C023353
+K01623	fructose-bisphosphate aldolase, class I 	MELO3C023354
+K15918	D-glycerate 3-kinase 	MELO3C023371
+K02295	cryptochrome	MELO3C023394
+K13280	signal peptidase, endoplasmic reticulum-type 	MELO3C023413
+K12856	pre-mRNA-processing factor 8	MELO3C023428
+K03255	protein TIF31	MELO3C023434
+K03255	protein TIF31	MELO3C023435
+K13116	ATP-dependent RNA helicase DDX41 	MELO3C023443
+K13116	ATP-dependent RNA helicase DDX41 	MELO3C023444
+K10268	F-box and leucine-rich repeat protein 2/20	MELO3C023452
+K15414	complement component 1 Q subcomponent-binding protein, mitochondrial	MELO3C023461
+K02951	small subunit ribosomal protein S12e	MELO3C023463
+K09753	cinnamoyl-CoA reductase 	MELO3C023465
+K17499	protein phosphatase 1G 	MELO3C023473
+K13065	shikimate O-hydroxycinnamoyltransferase 	MELO3C023474
+K01904	4-coumarate--CoA ligase 	MELO3C023494
+K10357	myosin V	MELO3C023495
+K03639	cyclic pyranopterin phosphate synthase 	MELO3C023505
+K11000	callose synthase 	MELO3C023512
+K13126	polyadenylate-binding protein	MELO3C023523
+K02934	large subunit ribosomal protein L6e	MELO3C023525
+K19045	E3 ubiquitin-protein ligase BIG BROTHER and related proteins	MELO3C023546
+K10999	cellulose synthase A 	MELO3C023551
+K11159	carotenoid cleavage dioxygenase	MELO3C023555
+K06966		MELO3C023557
+K13366	polyamine oxidase 	MELO3C023571
+K02863	large subunit ribosomal protein L1	MELO3C023582
+K16297	serine carboxypeptidase-like clade II 	MELO3C023586
+K16297	serine carboxypeptidase-like clade II 	MELO3C023591
+K09828	delta24-sterol reductase 	MELO3C023603
+K15446	tRNA:m4X modification enzyme 	MELO3C023610
+K14803	protein phosphatase 2C homolog 2/3 	MELO3C023626
+K01051	pectinesterase 	MELO3C023632
+K09422	myb proto-oncogene protein, plant	MELO3C023633
+K03327	multidrug resistance protein, MATE family	MELO3C023658
+K00627	pyruvate dehydrogenase E2 component (dihydrolipoamide acetyltransferase) 	MELO3C023666
+K03537	ribonuclease P/MRP protein subunit POP5 	MELO3C023673
+alcohol	dehydrogenase 1 (EC:1.1.1.1)	MELO3C023685
+K17679	ATP-dependent RNA helicase MSS116, mitochondrial 	MELO3C023720
+K14496	abscisic acid receptor PYR/PYL family	MELO3C023724
+K00876	uridine kinase 	MELO3C023785
+S-adenosylmethionine	decarboxylase	MELO3C023786
+S-adenosylmethionine	decarboxylase	MELO3C023787
+K19032	30S ribosomal protein 3	MELO3C023788
+K02918	large subunit ribosomal protein L35e	MELO3C023820
+K02893	large subunit ribosomal protein L23Ae	MELO3C023835
+K10355	actin, other eukaryote	MELO3C023852
+K08678	UDP-glucuronate decarboxylase 	MELO3C023858
+K08081	Tropinone reductase 1 	MELO3C023885
+K09338	homeobox-leucine zipper protein	MELO3C023937
+K09753	cinnamoyl-CoA reductase 	MELO3C023941
+K11126	telomerase reverse transcriptase 	MELO3C023972
+K11126	telomerase reverse transcriptase 	MELO3C023973
+K00559	sterol 24-C-methyltransferase 	MELO3C023989
+K00559	sterol 24-C-methyltransferase 	MELO3C023990
+K14855	ribosome assembly protein 4	MELO3C023992
+K02863	large subunit ribosomal protein L1	MELO3C023997
+K01749	hydroxymethylbilane synthase 	MELO3C024010
+K15402	fatty acid omega-hydroxylase 	MELO3C024015
+K06950	uncharacterized protein	MELO3C024016
+K11294	nucleolin	MELO3C024024
+K11168	dehydrogenase/reductase SDR family member 12 	MELO3C024061
+K14156	choline/ethanolamine kinase 	MELO3C024063
+K07052		MELO3C024064
+K02888	large subunit ribosomal protein L21	MELO3C024121
+K14486	auxin response factor	MELO3C024138
+K06067	histone deacetylase 1/2 	MELO3C024172
+glucose-1-phosphate	adenylyltransferase small subunit 2, chloroplastic	MELO3C024175
+K16285	RING/U-box domain-containing protein	MELO3C024183
+K01897	long-chain acyl-CoA synthetase 	MELO3C024187
+K08913	light-harvesting complex II chlorophyll a/b binding protein 2	MELO3C024206
+K01868	threonyl-tRNA synthetase 	MELO3C024216
+K17302	coatomer, subunit beta'	MELO3C024225
+K17471	sulfate transporter 3	MELO3C024226
+K15109	solute carrier family 25 (mitochondrial carnitine/acylcarnitine transporter), member	MELO3C024239
+K10393	kinesin family member 2/24	MELO3C024241
+K11273	chromosome transmission fidelity protein 1 	MELO3C024242
+K02922	large subunit ribosomal protein L37e	MELO3C024244
+K07897	Ras-related protein Rab-7A	MELO3C024246
+K02961	small subunit ribosomal protein S17	MELO3C024255
+K09338	homeobox-leucine zipper protein	MELO3C024256
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C024258
+K09873	aquaporin TIP	MELO3C024263
+K01853	cycloartenol synthase 	MELO3C024270
+K15813	beta-amyrin synthase 	MELO3C024271
+K14684	solute carrier family 25 (mitochondrial phosphate transporter), member	MELO3C024278
+K00213	7-dehydrocholesterol reductase 	MELO3C024285
+K14696	solute carrier family 30 (zinc transporter), member 9	MELO3C024289
+K02937	large subunit ribosomal protein L7e	MELO3C024290
+K07195	exocyst complex component 7	MELO3C024293
+K00895	pyrophosphate--fructose-6-phosphate 1-phosphotransferase 	MELO3C024296
+K14790	nucleolar protein 9	MELO3C024305
+K01051	pectinesterase 	MELO3C024306
+K09286	EREBP-like factor	MELO3C024315
+K15688	E3 ubiquitin-protein ligase MUL1 	MELO3C024354
+K14572	midasin	MELO3C024368
+K14572	midasin	MELO3C024369
+K14572	midasin	MELO3C024370
+K01530	phospholipid-translocating ATPase 	MELO3C024378
+K04077	chaperonin GroEL	MELO3C024388
+K15403	fatty acid omega-hydroxy dehydrogenase 	MELO3C024391
+K13248	pyridoxal phosphate phosphatase PHOSPHO2 	MELO3C024400
+K01512	acylphosphatase 	MELO3C024465
+K10144	RING finger and CHY zinc finger domain-containing protein	MELO3C024482
+K09873	aquaporin TIP	MELO3C024483
+K14556	U3 small nucleolar RNA-associated protein 12	MELO3C024484
+K01754	threonine dehydratase 	MELO3C024498
+K01754	threonine dehydratase 	MELO3C024500
+K02896	large subunit ribosomal protein L24e	MELO3C024506
+K00873	pyruvate kinase 	MELO3C024508
+K01623	fructose-bisphosphate aldolase, class I 	MELO3C024519
+K08232	monodehydroascorbate reductase (NADH) 	MELO3C024527
+K03531	cell division protein FtsZ	MELO3C024544
+K03106	signal recognition particle subunit SRP54	MELO3C024550
+K06620	transcription factor E2F3	MELO3C024578
+K06620	transcription factor E2F3	MELO3C024579
+K14842	ribosome biogenesis protein NSA2	MELO3C024586
+K09480	digalactosyldiacylglycerol synthase 	MELO3C024587
+K08486	syntaxin 1B/2/3	MELO3C024589
+K02327	DNA polymerase delta subunit 1 	MELO3C024596
+K03495	tRNA uridine 5-carboxymethylaminomethyl modification enzyme	MELO3C024598
+K16280	E3 ubiquitin-protein ligase RGLG 	MELO3C024602
+K06269	serine/threonine-protein phosphatase PP1 catalytic subunit 	MELO3C024667
+K17794	mitochondrial import inner membrane translocase subunit TIM23	MELO3C024672
+K02357	elongation factor Ts	MELO3C024701
+K09286	EREBP-like factor	MELO3C024714
+K01904	4-coumarate--CoA ligase 	MELO3C024724
+K17681	ATPase family AAA domain-containing protein 3A/B	MELO3C024728
+K05928	tocopherol O-methyltransferase 	MELO3C024736
+K03086	RNA polymerase primary sigma factor	MELO3C024760
+K17506	protein phosphatase 1L 	MELO3C024805
+K01166	ribonuclease T2 	MELO3C024816
+K03319	divalent anion:Na+ symporter, DASS family	MELO3C024824
+K02940	large subunit ribosomal protein L9e	MELO3C024850
+K13066	caffeic acid 3-O-methyltransferase 	MELO3C024861
+K01904	4-coumarate--CoA ligase 	MELO3C024886
+K03714	glycoprotein 2-beta-D-xylosyltransferase 	MELO3C024890
+K02946	small subunit ribosomal protein S10	MELO3C024899
+K00640	serine O-acetyltransferase 	MELO3C024900
+K15032	mTERF domain-containing protein, mitochondrial	MELO3C024909
+K01738	cysteine synthase A 	MELO3C024929
+K14835	ribosomal RNA methyltransferase Nop2 	MELO3C024955
+K08819	cyclin-dependent kinase 12/13 	MELO3C024972
+K02998	small subunit ribosomal protein SAe	MELO3C024994
+K02945	small subunit ribosomal protein S1	MELO3C025002
+K02113	F-type H+-transporting ATPase subunit delta	MELO3C025005
+K08734	DNA mismatch repair protein MLH1	MELO3C025009
+K10999	cellulose synthase A 	MELO3C025029
+K02925	large subunit ribosomal protein L3e	MELO3C025030
+K03564	peroxiredoxin Q/BCP 	MELO3C025034
+K06129	lysophospholipase III 	MELO3C025035
+K00031	isocitrate dehydrogenase 	MELO3C025076
+K01580	glutamate decarboxylase 	MELO3C025078
+K13993	HSP20 family protein	MELO3C025085
+K00695	sucrose synthase 	MELO3C025101
+phytoene	synthase, chloroplastic (EC:2.5.1.32)	MELO3C025102
+K03626	nascent polypeptide-associated complex subunit alpha	MELO3C025118
+K11717	cysteine desulfurase / selenocysteine lyase 	MELO3C025126
+K13993	HSP20 family protein	MELO3C025135
+K13993	HSP20 family protein	MELO3C025138
+K13993	HSP20 family protein	MELO3C025139
+K02917	large subunit ribosomal protein L35Ae	MELO3C025140
+K09377	cysteine and glycine-rich protein	MELO3C025143
+K01100	sedoheptulose-bisphosphatase 	MELO3C025149
+K09872	aquaporin PIP	MELO3C025164
+K09872	aquaporin PIP	MELO3C025165
+K09872	aquaporin PIP	MELO3C025166
+K02941	large subunit ribosomal protein LP0	MELO3C025168
+K13946	auxin influx carrier (AUX1 LAX family)	MELO3C025174
+K09588	cytochrome P450, family 90, subfamily A, polypeptide 1	MELO3C025183
+K06689	ubiquitin-conjugating enzyme E2 D/E 	MELO3C025232
+K00809	deoxyhypusine synthase 	MELO3C025268
+K07760	cyclin-dependent kinase 	MELO3C025274
+K13648	alpha-1,4-galacturonosyltransferase 	MELO3C025283
+K11593	eukaryotic translation initiation factor 2C	MELO3C025291
+K14484	auxin-responsive protein IAA	MELO3C025308
+K10781	fatty acyl-ACP thioesterase B 	MELO3C025309
+K17471	sulfate transporter 3	MELO3C025326
+K10393	kinesin family member 2/24	MELO3C025337
+K09419	heat shock transcription factor, other eukaryote	MELO3C025338
+K13606	chlorophyll(ide) b reductase 	MELO3C025347
+K17710	pentatricopeptide repeat domain-containing protein 1	MELO3C025351
+K17710	pentatricopeptide repeat domain-containing protein 1	MELO3C025352
+K03100	signal peptidase I 	MELO3C025353
+K13412	calcium-dependent protein kinase 	MELO3C025374
+K03113	translation initiation factor 1	MELO3C025375
+K02335	DNA polymerase I 	MELO3C025395
+K02335	DNA polymerase I 	MELO3C025396
+K03146	thiamine thiazole synthase	MELO3C025408
+K05765	cofilin	MELO3C025451
+K00164	2-oxoglutarate dehydrogenase E1 component 	MELO3C025454
+K05658	ATP-binding cassette, subfamily B (MDR/TAP), member 1 	MELO3C025469
+K18059	sulfate transporter 4	MELO3C025473
+K02893	large subunit ribosomal protein L23Ae	MELO3C025474
+K02717	photosystem II oxygen-evolving enhancer protein 2	MELO3C025475
+K02918	large subunit ribosomal protein L35e	MELO3C025480
+K01859	chalcone isomerase 	MELO3C025484
+K01254	leukotriene-A4 hydrolase 	MELO3C025494
+K02973	small subunit ribosomal protein S23e	MELO3C025501
+K03231	elongation factor 1-alpha	MELO3C025509
+K03231	elongation factor 1-alpha	MELO3C025510
+K03231	elongation factor 1-alpha	MELO3C025511
+K06027	vesicle-fusing ATPase 	MELO3C025548
+K06027	vesicle-fusing ATPase 	MELO3C025549
+K10047	inositol-phosphate phosphatase / L-galactose 1-phosphate phosphatase 	MELO3C025552
+K01092	myo-inositol-1(or 4)-monophosphatase 	MELO3C025560
+K17805	mitochondrial import inner membrane translocase subunit TIM16	MELO3C025561
+K12581	CCR4-NOT transcription complex subunit 7/8	MELO3C025580
+K13035	beta-cyano-L-alanine hydratase/nitrilase 	MELO3C025585
+K14332	photosystem I subunit PsaO	MELO3C025587
+K17506	protein phosphatase 1L 	MELO3C025598
+probable	galactinol--sucrose galactosyltransferase 1	MELO3C025599
+K02968	small subunit ribosomal protein S20	MELO3C025609
+K01595	phosphoenolpyruvate carboxylase 	MELO3C025636
+K01307	gamma-glutamyl hydrolase 	MELO3C025645
+K02871	large subunit ribosomal protein L13	MELO3C025669
+K03539	ribonuclease P/MRP protein subunit RPP1 	MELO3C025708
+K13411	dual oxidase 	MELO3C025712
+K10643	CCR4-NOT transcription complex subunit 4 	MELO3C025725
+K08597	sentrin-specific protease 8 	MELO3C025732
+K02973	small subunit ribosomal protein S23e	MELO3C025738
+K15322	tRNA-splicing endonuclease subunit Sen2 	MELO3C025739
+K09481	protein transport protein SEC61 subunit beta	MELO3C025763
+K08681	5'-phosphate synthase pdxT subunit 	MELO3C025766
+K09872	aquaporin PIP	MELO3C025772
+K09338	homeobox-leucine zipper protein	MELO3C025774
+K06966		MELO3C025780
+K05391	cyclic nucleotide gated channel, other eukaryote	MELO3C025781
+K10775	phenylalanine ammonia-lyase 	MELO3C025786
+K13413	mitogen-activated protein kinase kinase 4/5, plant 	MELO3C025790
+K00058	D-3-phosphoglycerate dehydrogenase 	MELO3C025791
+K17301	coatomer, subunit beta	MELO3C025796
+K09285	AP2-like factor, ANT lineage	MELO3C025807
+K08336	ubiquitin-like protein ATG12	MELO3C025809
+K06944		MELO3C025810
+K10140	DNA damage-binding protein 2	MELO3C025853
+K11778	ditrans,polycis-polyprenyl diphosphate synthase 	MELO3C025855
+K01114	phospholipase C 	MELO3C025856
+K02926	large subunit ribosomal protein L4	MELO3C025869
+K17362	acyl-coenzyme A thioesterase 13 	MELO3C025874
+K00688	starch phosphorylase 	MELO3C025876
+K15103	solute carrier family 25 (mitochondrial uncoupling protein), member	MELO3C025878
+K12349	neutral ceramidase 	MELO3C025880
+K14500	BR-signaling kinase 	MELO3C025882
+K03327	multidrug resistance protein, MATE family	MELO3C025898
+K11982	E3 ubiquitin-protein ligase RNF115/126 	MELO3C025901
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C025912
+K18932	palmitoyltransferase 	MELO3C025926
+K09487	heat shock protein 90kDa beta	MELO3C025976
+K08867	WNK lysine deficient protein kinase 	MELO3C025989
+K14411	RNA-binding protein Musashi	MELO3C025991
+K14496	abscisic acid receptor PYR/PYL family	MELO3C026019
+K00827	alanine-glyoxylate transaminase / (R)-3-amino-2-methylpropionate-pyruvate transaminase 	MELO3C026045
+K12382	saposin	MELO3C026054
+K00626	acetyl-CoA C-acetyltransferase 	MELO3C026065
+K05389	potassium channel subfamily K, other eukaryote	MELO3C026072
+K07877	Ras-related protein Rab-2A	MELO3C026079
+K13648	alpha-1,4-galacturonosyltransferase 	MELO3C026097
+K03428	magnesium-protoporphyrin O-methyltransferase 	MELO3C026160
+K17592	sacsin	MELO3C026178
+K01114	phospholipase C 	MELO3C026201
+K01652	acetolactate synthase I/II/III large subunit 	MELO3C026205
+K14559	U3 small nucleolar RNA-associated protein MPP10	MELO3C026213
+K13448	calcium-binding protein CML	MELO3C026214
+K06901	putative MFS transporter, AGZA family, xanthine/uracil permease	MELO3C026215
+K11000	callose synthase 	MELO3C026217
+K01267	aspartyl aminopeptidase 	MELO3C026224
+K01267	aspartyl aminopeptidase 	MELO3C026225
+K00939	adenylate kinase 	MELO3C026227
+K01940	argininosuccinate synthase 	MELO3C026229
+K02495	oxygen-independent coproporphyrinogen III oxidase 	MELO3C026233
+K07304	peptide-methionine (S)-S-oxide reductase 	MELO3C026238
+K17890	autophagy-related protein 16, animal type	MELO3C026239
+K11294	nucleolin	MELO3C026246
+K02358	elongation factor Tu	MELO3C026259
+K09422	myb proto-oncogene protein, plant	MELO3C026265
+K16903	L-tryptophan---pyruvate aminotransferase 	MELO3C026272
+K13525	transitional endoplasmic reticulum ATPase	MELO3C026279
+K04354	serine/threonine-protein phosphatase 2A regulatory subunit B	MELO3C026288
+K13343	peroxin-14	MELO3C026291
+K00099	1-deoxy-D-xylulose-5-phosphate reductoisomerase 	MELO3C026292
+K00279	cytokinin dehydrogenase 	MELO3C026323
+K11000	callose synthase 	MELO3C026356
+K13993	HSP20 family protein	MELO3C026374
+K14709	solute carrier family 39 (zinc transporter), member 1/2/3	MELO3C026378
+K10704	ubiquitin-conjugating enzyme E2 variant	MELO3C026435
+K17108	non-lysosomal glucosylceramidase 	MELO3C026479
+K17108	non-lysosomal glucosylceramidase 	MELO3C026480
+K12120	phytochrome A	MELO3C026506
+3-hydroxy-3-methylglutaryl-coenzyme	A reductase 1 (EC:1.1.1.34)	MELO3C026512
+K03781	catalase 	MELO3C026532
+K06966		MELO3C026548
+K05387	glutamate receptor, ionotropic, plant	MELO3C026558
+K10268	F-box and leucine-rich repeat protein 2/20	MELO3C026581
+K14314	nuclear pore complex protein Nup210	MELO3C026582
+K00549	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase 	MELO3C026604
+K05349	beta-glucosidase 	MELO3C026609
+K03259	translation initiation factor 4E	MELO3C026612
+K07374	tubulin alpha	MELO3C026613
+K15397	3-ketoacyl-CoA synthase 	MELO3C026623
+K15639	PHYB activation tagged suppressor 1 	MELO3C026634
+K17943	pumilio RNA-binding family	MELO3C026713
+K00855	phosphoribulokinase 	MELO3C026722
+K02540	DNA replication licensing factor MCM2 	MELO3C026749
+K13447	respiratory burst oxidase 	MELO3C026754
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C026755
+K14484	auxin-responsive protein IAA	MELO3C026762
+K02958	small subunit ribosomal protein S15e	MELO3C026780
+K10257	omega-3 fatty acid desaturase (delta-15 desaturase) 	MELO3C026790
+K00477	phytanoyl-CoA hydroxylase 	MELO3C026795
+K04035	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase 	MELO3C026802
+K01051	pectinesterase 	MELO3C026806
+K14856	protein SDA1	MELO3C026844
+K14856	protein SDA1	MELO3C026845
+K04733	interleukin-1 receptor-associated kinase 4 	MELO3C026851
+K09580	protein disulfide-isomerase A1 	MELO3C026855
+K00430	peroxidase 	MELO3C026870
+K01411	nardilysin 	MELO3C026877
+K01363	cathepsin B 	MELO3C026898
+K01206	alpha-L-fucosidase 	MELO3C026905
+K14496	abscisic acid receptor PYR/PYL family	MELO3C026930
+K03093	RNA polymerase sigma factor	MELO3C026931
+K08235	xyloglucan:xyloglucosyl transferase 	MELO3C026945
+K04565	superoxide dismutase, Cu-Zn family 	MELO3C026955
+K19040	E3 ubiquitin-protein ligase ATL10/75/76/77/78 	MELO3C026961
+K14325	RNA-binding protein with serine-rich domain 1	MELO3C026965
+K09840	9-cis-epoxycarotenoid dioxygenase 	MELO3C027057
+K15382	solute carrier family 50 (sugar transporter)	MELO3C027076
+K04079	molecular chaperone HtpG	MELO3C027077
+K01358	ATP-dependent Clp protease, protease subunit 	MELO3C027089
+K13993	HSP20 family protein	MELO3C027124
+K14498	serine/threonine-protein kinase SRK2 	MELO3C027162
+K01809	mannose-6-phosphate isomerase 	MELO3C027179
+K13065	shikimate O-hydroxycinnamoyltransferase 	MELO3C027219
+K08675	Lon-like ATP-dependent protease 	MELO3C027261
+polygalacturonase-like		MELO3C027277
+K01754	threonine dehydratase 	MELO3C027288
+K01246	DNA-3-methyladenine glycosylase I 	MELO3C027337
+K12486	stromal membrane-associated protein	MELO3C027373
+K01051	pectinesterase 	MELO3C027375
+K00297	methylenetetrahydrofolate reductase (NADPH) 	MELO3C027379
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	MELO3C027421
+K09264	MADS-box transcription factor, plant	Novel00013
+K14272	glutamate--glyoxylate aminotransferase 	Novel00045
+K05387	glutamate receptor, ionotropic, plant	Novel00060
+K15382	solute carrier family 50 (sugar transporter)	Novel00069
+K01530	phospholipid-translocating ATPase 	Novel00096
+K15813	beta-amyrin synthase 	Novel00137
+K15281	solute carrier family 35	Novel00139
+K15281	solute carrier family 35	Novel00142
+K05666	ATP-binding cassette, subfamily C (CFTR/MRP), member 2	Novel00150
+K17908	autophagy-related protein 18	Novel00153
+K01187	alpha-glucosidase 	Novel00157
+K10994	cell cycle checkpoint control protein RAD9A 	Novel00158
+K12663	delta(3,5)-Delta(2,4)-dienoyl-CoA isomerase 	Novel00224
+K00851	gluconokinase 	Novel00232
+K09422	myb proto-oncogene protein, plant	Novel00243
+K06892	feruloyl-CoA ortho-hydroxylase 	Novel00273
+K05391	cyclic nucleotide gated channel, other eukaryote	Novel00286
+K02210	DNA replication licensing factor MCM7 	Novel00351
+K01919	glutamate--cysteine ligase 	Novel00354
+K00833	adenosylmethionine-8-amino-7-oxononanoate aminotransferase 	Novel00382
+K12486	stromal membrane-associated protein	Novel00444
+K05387	glutamate receptor, ionotropic, plant	Novel00450
+K15728	phosphatidate phosphatase LPIN 	Novel00504
+K00652	8-amino-7-oxononanoate synthase 	Novel00522
+K00993	ethanolaminephosphotransferase 	Novel00554
+K11000	callose synthase 	Novel00574
+K15849	bifunctional aspartate aminotransferase and glutamate/aspartate-prephenate aminotransferase [EC:2.6.1.1 2.6.1.78	Novel00594
+K01881	prolyl-tRNA synthetase 	Novel00624
+K14488	SAUR family protein	Novel00633
+K09422	myb proto-oncogene protein, plant	Novel00639
+K02437	glycine cleavage system H protein	Novel00678
+K00454	lipoxygenase 	Novel00702
+K05387	glutamate receptor, ionotropic, plant	Novel00716
+K00901	diacylglycerol kinase (ATP) 	Novel00787
+K02980	small subunit ribosomal protein S29e	Novel00802
+K16296	serine carboxypeptidase-like clade I 	Novel00813
+K12604	CCR4-NOT transcription complex subunit 1	Novel00903
+K08596	sentrin-specific protease 7 	Novel00912
+K06110	exocyst complex component 3	Novel00964
+K12124	GIGANTEA	Novel00966
+K11000	callose synthase 	Novel00982
+K00868	pyridoxine kinase 	Novel00994
+K06689	ubiquitin-conjugating enzyme E2 D/E 	Novel01010
+K09422	myb proto-oncogene protein, plant	Novel01098
+K13456	RPM1-interacting protein 4	Novel01132
+K07052		Novel01147
+K00033	6-phosphogluconate dehydrogenase 	Novel01188
+K12124	GIGANTEA	Novel01206
+K08245	phytepsin 	Novel01257
+K02978	small subunit ribosomal protein S27e	Novel01317
+K07342	protein transport protein SEC61 subunit gamma and related	Novel01336
+K02209	DNA replication licensing factor MCM5 	Novel01350
+K15382	solute carrier family 50 (sugar transporter)	Novel01407
+K07937	ADP-ribosylation factor 1	Novel01413
+K11578	centromere/kinetochore protein ZW10	Novel01417
+K14638	solute carrier family 15 (peptide/histidine transporter), member 3/4	Novel01426
+K09060	plant G-box-binding factor	Novel01429
+K15813	beta-amyrin synthase 	Novel01434
+K02516	protein arginine N-methyltransferase 5 	Novel01468

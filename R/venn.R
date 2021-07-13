@@ -1,31 +1,34 @@
-### a function for barplot GO,KEGG results.
-rm(list = ls())
-sedwd("e:/pakwork/cancer/enrichR/R/")
-if(!require(ggplot2))install.packages("ggplot2")
-if(!require(tidyverse))install.packages("tidyverse")
-#if(!require(ggprism))remotes::install_github("csdaw/ggprism")
-library(ggplot2)
-library(tidyverse)
-#library(ggprism) #可以完善ggplot2的图使之达到发表级别
-# if (!require(venn)) install.packages("venn")
-# library(venn)
-if (!require(devtools)) install.packages("devtools")
-if(!require(ggvenn))devtools::install_github("yanlinlin82/ggvenn")
-library(ggvenn)
-if(!require(UpSetR))install.packages("UpSetR")
-library("UpSetR")
-require(ggplot2); require(plyr); require(gridExtra); require(grid);
+# ### a function for barplot GO,KEGG results.
+# if(!require(ggplot2))install.packages("ggplot2")
+# if(!require(tidyverse))install.packages("tidyverse")
+# #if(!require(ggprism))remotes::install_github("csdaw/ggprism")
+# library(ggplot2)
+# library(tidyverse)
+# #library(ggprism) #可以完善ggplot2的图使之达到发表级别
+# # if (!require(venn)) install.packages("venn")
+# # library(venn)
+# if (!require(devtools)) install.packages("devtools")
+# if(!require(ggvenn))devtools::install_github("yanlinlin82/ggvenn")
+# library(ggvenn)
+# if(!require(UpSetR))install.packages("UpSetR")
+# library("UpSetR")
+#require(ggplot2); require(plyr); require(gridExtra); require(grid);
 
 #######输入基因的列，获取0/1或FALSE/TRUE矩阵的数据框########
 #' Title get_matrix:return a 0/1 matrix dataframe.
-#'
+#' @import ggplot2
+#' @import plyr
+#' @import gridExtra
+#' @import grid
+#' @import ggvenn
+#' @import UpSetR
 #' @param data_venn dataframe.input the genelist dataframe
 #' @param getlogic TRUE or FALSE.Default:FALSE.if set true, the output will be logic dataframe.
 #' @return dataframe. Default:contain 0 or 1 dataframe.
-#' @export
+#' @export get_matrix
 #'
 #' @examples
-#'load("../data/veen.Rdata")
+#' load("venn.Rdata")
 #' head(data_venn)
 #'   PH6WC_XY335   PH4CVvsXY335   PH4CVvsPH6WC         RIL335       F2_3_335       F2_3_958         RIL958
 #' 1 Zm00001d033896 Zm00001d044327 Zm00001d033896 Zm00001d053675 Zm00001d031899 Zm00001d034543 Zm00001d018779
@@ -68,23 +71,20 @@ get_matrix <- function(data_venn,getlogic = FALSE){
 
 
 ##################获取2-4元的venn图#########
-#' Title:get_venn: input a dataframe ,output venn diagram.Only draw venn graphs of 2-4 dimensions
+#' get_venn: input a dataframe ,output venn diagram.Only draw venn graphs of 2-4 dimensions
 #'
-#' @param data2
+#' @param data2:a o/1 data matrix. output from `get_matrix`.
 #' @param fill_color Default:color , can be color 1 to color4, or a color vector of length 4
 #' @param percentage logic:TRUE or FALSE, control show the percentage .
-#' @return
-#' @export
-#'
+#' @return return a ggplot image.
+#' @export get_venn
 #' @examples
-#' load("../data/veen.Rdata)
-#' head(data2)
-#'  PH6WC_XY335 PH4CVvsXY335 PH4CVvsPH6WC RIL335 F2_3_335
-#' ZeamMp007           0            0            0      1        0
-#' ZeamMp010           0            0            0      0        0
-#' ZeamMp011           0            0            0      0        0
-#'
-#'
+#' load("venn.Rdata")
+#' data2 <- get_matrix(data_gene)
+#' get_venn(data2,fill_color=color1,percentage=FALSE)
+#' get_venn(data2,fill_color=color4)
+#' get_venn(data2,fill_color=color3,percentage=FALSE)
+#' get_venn(data2,fill_color=color1,percentage=TRUE)
 get_venn <- function(data2,fill_color = color,percentage = TRUE){
   #设置删除geneID的列，同时转为逻辑矩阵
   dat3 <- data.frame(Map(as.logical,data2))
@@ -110,16 +110,16 @@ get_venn <- function(data2,fill_color = color,percentage = TRUE){
 
 
 #########直接从gene到输出venn图和upset图####
-#' Title
+#' gene2venn: input gene ,out put venn and upset image.
 #'
 #' @param data_gene dataframe. contain the columns of each group.
 #' @param outname string.Default:"demo",for output file name prefix.
 #'
-#' @return
-#' @export
+#' @return the common venn gene
+#' @export gene2venn
 #'
 #' @examples
-#' data_venn
+#' load("venn.Rdata")
 #' head(data_venn)
 #'   PH6WC_XY335   PH4CVvsXY335   PH4CVvsPH6WC         RIL335       F2_3_335       F2_3_958         RIL958
 #' 1 Zm00001d033896 Zm00001d044327 Zm00001d033896 Zm00001d053675 Zm00001d031899 Zm00001d034543 Zm00001d018779
@@ -127,6 +127,11 @@ get_venn <- function(data2,fill_color = color,percentage = TRUE){
 #' 3 Zm00001d008977 Zm00001d035030 Zm00001d009840 Zm00001d047789 Zm00001d021310 Zm00001d021784 Zm00001d033091
 #' 4 Zm00001d038546 Zm00001d013456 Zm00001d012313 Zm00001d018386 Zm00001d047789 Zm00001d047789 Zm00001d043299
 #' gene2venn(data_venn)
+#'
+#' load("../data/veen.Rdata")
+#' intersect_gene <- gene2venn(data_venn %>% select(1:4)) #获取所有列的交集
+#' write.table(intersect_gene,file = "intersect_gene.csv",row.names = FALSE)
+#' @note The output file is `outname_matrix.csv`,`outname_venn.pdf`,`outname_upset.pdf`.
 gene2venn <- function(data_gene,outname="demo"){
 
   #获取矩阵
@@ -164,13 +169,13 @@ gene2venn <- function(data_gene,outname="demo"){
 
 #############demo1 示例############
 #############demo1 示例############
-demo1 <- function(){
+demovenn <- function(){
   load("../data/veen.Rdata")
   intersect_gene <- gene2venn(data_venn %>% select(1:4)) #获取所有列的交集
   write.table(intersect_gene,file = "intersect_gene.csv",row.names = FALSE)
 }
 
-demo1()
+#demo1()
 
 
 ###############demo2示例################
@@ -189,7 +194,7 @@ demo2 <- function(){
        par = FALSE,plotsize = 30)
   ggsave("demo2.tiff")
 }
-demo2()
+#demo2()
 
 
 

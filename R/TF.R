@@ -1,25 +1,24 @@
-if (!requireNamespace("BiocManager", quietly = TRUE))install.packages("BiocManager")
-if (!require(ggplot2))BiocManager::install("ggplot2")
-if (!require(clusterProfiler))BiocManager::install("clusterProfiler")
-library("clusterProfiler")
-#' Title
+#' TFenrich: in fact it can enrich everything,just prepare the right database.
+#' @import clusterProfiler
+#' @import ggplot2
+#' @param genelist:a gene list vector.
+#' @param genetype:a string.
+#' @param TFfile: just like `GO.info`.
 #'
-#' @param genefile
-#' @param genetype
-#' @param TFfile
-#'
-#' @return
-#' @export
+#' @return return a S3 enrich result
+#' @export TFenrich
 #'
 #' @examples
-TF_enrich <- function(genelist, genetype, TFfile = "TF.info") {
-  #gene <- read.delim(file = genefile, sep = "\t", header = FALSE)
+#' genelist <- read.delim("ST1.txt")
+#' TFenrich(genelist,"TF1","data/TF.info")
+TFenrich <- function(genelist, genetype, TFfile = "TF.info") {
+  # gene <- read.delim(file = genefile, sep = "\t", header = FALSE)
   gene <- genelist
   tflist <- read.delim(file = TFfile, sep = "\t", header = FALSE)
 
   spo2gene <- data.frame(tflist$V1, tflist$V3) # TF,Geneid
   spo2name <- data.frame(tflist$V1, tflist$V2) # TF,TF描述
-  gene1 <- t(gene$V1) # 获取需要分析的基因列表
+  gene1 <- t(gene) # 获取需要分析的基因列表
   # TF富集分析
   spo_TF <- enricher(gene1, TERM2GENE = spo2gene, TERM2NAME = spo2name)
   res <- length(spo_TF$Count)

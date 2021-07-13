@@ -1,16 +1,29 @@
 Package: enrichR
-Title: for enrich analysis
-Version: 0.0.0.9000
+Title: For enrich analysis
+Version: 0.0.2.0
 Authors@R: 
     person(given = "Mol",
            family = "Chai",
            role = c("aut", "cre"),
            email = "chaimol@163.com",
            comment = c(ORCID = "0000-0001-6502-2137"))
-Description: include GO,KEGG,TF enrich.require:base,clusterProfilter,ggplot2
-License: use_mit_license()
+Description: Downstream visualization of the transcriptome;enrichment analysis of GO,KEGG,TF.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-Depends:ggplot2,clusterProfilter
+Depends: 
+    R (>= 3.5.0)
+Suggests: 
+    renv
+Imports: 
+    ggord,
+    clusterProfiler,
+    ggplot2,
+    ggprism,
+    ggnewscale,
+    tidyverse,
+    ggvenn,
+    grid,
+    UpSetR

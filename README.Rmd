@@ -1,0 +1,89 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# enrichR
+
+<!-- badges: start -->
+
+<!-- badges: end -->
+
+The goal of enrichR is to for enrich analysis and visual the data.
+
+## Reuqire packages (please run this before Install `enrichR`)
+```r
+if(!require(ggplot2))install.packages("ggplot2")
+if(!require(tidyverse))install.packages("tidyverse")
+if(!require(ggprism))remotes::install_github("csdaw/ggprism")
+if(!require(devtools))install.packages("devtools")
+if(!require(ggvenn))devtools::install_github("yanlinlin82/ggvenn")
+if(!require(UpSetR))install.packages("UpSetR")
+if(!require(clusterProfiler))install.packages("clusterProfiler")
+if(!require(ggord))install_github('fawda123/ggord')
+if(!require(grid))remotes::install_github("thomasp85/grid")
+if(!require(ggnewscale))devtools::install_github("eliocamp/ggnewscale")
+```
+
+## Installation
+
+You can install the released version of enrichR from local with:
+
+``` r
+install.packages("enrichR_0.0.2.0.tar.gz", repos = NULL, type = "source")
+
+```
+
+And the development version from [GitHub](https://github.com/chaimol/enrichR) with:
+
+``` r
+# install.packages("devtools")
+#devtools::install_github("chaimol/enrichR")
+```
+
+## Example
+
+This is basic example 
+
+```
+library(enrichR)
+### PCA
+read_counts <- read.delim("data/all_raw_counts.txt",sep="\t",header = TRUE,row.names = 1)
+group_level <- substr(colnames(read_counts),1,2)
+get_pca(read_counts, group_level,groupname="WTvsMT")
+
+###Venn图（Venn图只能输出2-4组的维恩图，大于4则只输出upset图）
+venn <- read.csv("data/venn.csv",header = T)
+gene2venn(venn[1:3],"demo3")
+gene2venn(venn[1:4],"demo4")
+gene2venn(venn[1:2],"demo2")
+
+###GO,KEGG,TF enrich amalysis
+#每一列都可以单独进行各种富集分析
+#参数1是基因列，参数2是输出的文件前缀名，参数3是对应的数据库，需要自行下载对应物种的数据库
+#GO,KEGG,TF数据格式参考 data目录里的格式
+go1 <- GOenrich(venn$kang5,"kang5",GOfile = "data/GO.info")
+kegg1 <- KEGGenrich(venn$gan8,"gan8","data/KEGG.info")
+tf1 <- TFenrich(venn$kang2,"kang2","data/TF.info")
+#参数1：基因列表
+#参数2：输出文件名前缀
+#参数3：富集种类的数据库文件(要求必须使用tab分隔符)
+#GO.info 需要4列
+#KEGG.info 需要3列
+#TF.info 需要3列或4列（只使用前三列）
+
+###dot plot
+load("data/data_GO_all.Rdata")
+dotplot(data_GO_all,xlabels=xlabels,output="All_GO")
+dotplot(data_GO_all,xlabels=xlabels,output="All_GO",range=c(3,5))
+```
